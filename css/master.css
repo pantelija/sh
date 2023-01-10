@@ -126,6 +126,19 @@ h1 {
 }
 
 
+.hero__emphasizing {
+    background-image: url(../images/sw.svg);
+    background-position: 0 80%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0 -30px 0 -15px;
+    padding: 20px 30px 20px 15px;
+}
+
+
+
+
+
 .solid-bg {
 	 background: #F5F7FA;
 }
@@ -209,6 +222,40 @@ h1 {
 .border-bottom {
 	border-bottom: 4px dashed #e8eff7;
 	}
+	
+	
+	
+
+ 
+#home-pills {
+		border-bottom: 4px dashed #e8eff7;
+		border-top: 4px dashed #e8eff7;
+} 
+  
+  
+  
+  
+.pills-hero-wrapper {
+	margin: 0 auto;
+	padding: 3rem 0;
+	width: 540px;
+	text-align:center;
+}
+
+
+
+
+@media only screen and (max-width: 679px) {
+
+  .pills-hero-wrapper {
+    margin: 0 auto;
+    width: 100%;
+	padding: 3rem 20px;
+	text-align:left;
+  }
+}
+
+	
 
 
 #zigzag {
@@ -318,6 +365,12 @@ h1 {
 
 .z-sailcloth {
   background-image: url(../images/z-sailcloth.jpg);
+  
+}
+
+
+.z-home {
+  background-image: url(../images/z-home.jpg);
   
 }
 
@@ -669,6 +722,8 @@ span {
 	opacity: 0.75;
 }
 
+
+
 .rubber {
   color: #4F40D0;
   background: #D9D6F5;
@@ -727,6 +782,52 @@ span {
   color: #77480d;
   background: #f9dfc0;
 }
+
+
+
+
+
+.filter-pills-home {
+  font-size: 15px;
+  padding: 1rem 0;
+  text-align:center;
+}
+
+
+
+.filter-pills-home a {
+  /* font-weight: 600; */
+  margin-top:7px;
+  margin-bottom:7px;
+  margin-right: 7px;
+}
+
+
+.pill-home {
+  border-radius: 20px;
+  padding: 7px 18px 6px;
+  display: inline-block;
+  font-size: 15px;
+}
+
+
+@media only screen and (max-width: 679px) {
+
+ 
+.filter-pills-home {
+  font-size: 14px;
+   text-align: left;
+}
+
+
+h1 {
+  font-size: 40px;
+}
+
+
+}
+
+
 
 
 @media only screen and (max-width: 401px) {
@@ -1254,10 +1355,12 @@ footer {
   }
 }
 
-h1 span {
+
+
+/* h1 span {
   font-size: 20px;
   color: #708896;
-}
+} */
 
 
 ul.plain {
