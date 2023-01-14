@@ -259,12 +259,16 @@ h1 {
   
 
 .company-hero-image {
-	height: 90px;
+	height: 80px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 1rem;
-	 
+	margin-bottom: 1rem; 
+}
+
+
+.h50 {
+	height: 50px;	 
 }
 
 @media only screen and (min-width: 750px) and (max-width: 899px) {
@@ -302,11 +306,14 @@ h1 {
 }
 
 .company-hero-image {
-	height: 70px;
+	height: 60px;
 	display: block;
 	margin-left: 0;
 	margin-right: auto;
-	 
+}
+
+.h50 {
+	height: 50px;	 
 }
 
 
@@ -377,6 +384,37 @@ a.company-link:hover {
 
 
 
+
+
+.product-showcase {
+	display: inline-flex;
+	flex-direction: column;
+	margin-bottom: 1rem;
+	/* width: 47%; */
+	margin-right: 1rem;
+}
+
+.product-showcase img{
+	width: 100%;
+}
+
+.product-showcase-details {
+	padding: 20px 20px 0 20px;
+	font-size: 14px;
+	color: #333;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background: #efefef;
+}
+
+.product-showcase-details p {
+	margin-bottom: 20px;
+	margin-right: 1.5rem;
+}
+
+
+
 @media only screen and (max-width: 699px) {
 
 .company-about-container {
@@ -432,6 +470,12 @@ a.company-link:hover {
 	padding: 10px;
 	
 }
+
+
+
+
+
+
 
 
 
@@ -630,25 +674,49 @@ a.company-link:hover {
 
 
 .z-home {
-  background-image: url(../images/z-home.jpg);
-  
+  background-image: url(../images/z-home.jpg); 
 }
 
 
 
 .c-holbens {
   background-image: url(../images/company-holbens.jpg);
-  
 }
 
 
 .c-tss {
   background-image: url(../images/company-tss.jpg);
-  
+}
+
+.c-artem {
+  background-image: url(../images/company-artem.jpg);
+}
+
+.c-barton {
+  background-image: url(../images/company-barton.jpg);
+}
+
+.c-colareb {
+  background-image: url(../images/company-colareb.jpg);
 }
 
 
+.c-crafterblue {
+  background-image: url(../images/company-crafterblue.jpg);
+}
 
+
+.c-crownandbuckle {
+  background-image: url(../images/company-crownandbuckle.jpg);
+}
+
+.c-molequin {
+  background-image: url(../images/company-molequin.jpg);
+  }
+
+.c-everest {
+  background-image: url(../images/company-everest.jpg);
+  }
 
 
 .shipping-price {
@@ -940,6 +1008,15 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 span {
   font-weight: bold;
+}
+
+
+.card-title a {
+	text-decoration: none;
+}
+
+.card-title a:hover {
+	opacity: 0.7;
 }
 
 .coupon {
