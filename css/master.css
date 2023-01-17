@@ -426,7 +426,20 @@ a.company-link {
 
 a.company-link:hover {
 	text-decoration: underline;
+	
 }
+
+
+
+a.showcase-link {
+	text-decoration: underline;
+	color:#333;
+}
+
+a.showcase-link:hover {
+	color:#396ac6;
+}
+
 
 
 /* START Company content */
@@ -468,7 +481,7 @@ a.company-link:hover {
 	display: inline-flex;
 	flex-direction: column;
 	margin-bottom: 1rem;
-	/* width: 47%; */
+	width: 47%;
 	margin-right: 1rem;
 }
 
@@ -482,13 +495,29 @@ a.company-link:hover {
 	color: #333;
 	display:flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: flex-start;
 	background: #efefef;
 }
 
 .product-showcase-details p {
 	margin-bottom: 20px;
-	margin-right: 1.5rem;
+}
+
+
+.product-showcase-details p:nth-child(odd) {
+  width: 60%;
+  margin-right: 1rem;
+}
+
+
+@media only screen and (max-width: 599px) {
+
+.product-showcase {
+	display: inline-flex;
+	flex-direction: column;
+	margin-bottom: 1rem;
+	width: 100%;
+}
 }
 
 
