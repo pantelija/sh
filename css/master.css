@@ -871,7 +871,9 @@ background-image: url(../images/company-singular.jpeg);
 background-image: url(../images/company-phenomenato.jpg);
 }
 
-
+.c-velle {
+background-image: url(../images/company-velle.jpg);
+}
 
 
 .shipping-price {
@@ -1922,11 +1924,12 @@ ul.plain li {
 	background: white;
 	padding: 15px 30px;
 	top:100px;
-	position: fixed;
+	position: sticky;
 	font-size: 14px;
-	left: calc(50vw + 320px);
     box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
 	border-radius: 10px;
+	width: 250px;
+	left: calc(100% - 200px);
 }
 
 
