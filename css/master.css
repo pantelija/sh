@@ -1979,3 +1979,19 @@ hr {
 p.f14 {
 	font-size: 14px;
 }
+
+
+/* company-internal-link*/ 
+
+.cil {
+  text-decoration: none;
+  color: #333;
+}
+
+
+/* snippet-internal-link*/ 
+
+.sil {
+  text-decoration: none;
+  color: #4b606c;
+}
