@@ -342,4 +342,34 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+	<loc>https://www.straphunter.com/cordura</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+	<loc>https://www.straphunter.com/epsom</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+	<loc>https://www.straphunter.com/pueblo</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+	<loc>https://www.straphunter.com/saffiano</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+	<loc>https://www.straphunter.com/buttero</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>  
 </urlset>
