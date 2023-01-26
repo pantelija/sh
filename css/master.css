@@ -17,7 +17,7 @@ body {
   font-size: 17px;
 }
 
-
+::selection{background-color:#fef4ad;color:#333;}
 
 .nav-container {
   height: 60px;
@@ -1500,7 +1500,7 @@ span {
   }
 
   .nav-links a {
-    padding-left: 5px;
+    padding-left: 1rem;
   }
 
   .card-bottom {
