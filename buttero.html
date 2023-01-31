@@ -43,7 +43,32 @@
 	<a href="https://www.straphunter.com"><img src="images/logo.png" alt="strap hunter logo"></a>
 	</div>
 	<div class="nav-links">
-	<a class="svinav" href="https://www.straphunter.com">Home</a>  <a href="all">Stores</a> <a href="deals">Deals</a> <!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> <a href="contact">Contact</a>
+	<a class="svinav" href="https://www.straphunter.com">Home</a> 
+	
+	<div class="dropdown">
+    <input type="checkbox" id="checkbox-toggle">
+    <label for="checkbox-toggle">Stores</label>
+	
+    <ul>
+        <li><a href="all">All stores</a><span class="main-nav-notif">76</span></li>
+		<li><a href="leather">Leather</a></li>
+        <li><a href="nato">Nato</a></li>
+		<li><a href="sailcloth">Sailcloth</a></li>
+		<li><a href="perlon">Perlon</a></li>
+		<li><a href="elastic">Elastic</a></li>
+        <li><a href="canvas">Canvas</a></li>
+        <li><a href="rubber">Rubber</a></li>
+		<li><a href="metal">Metal</a></li>
+		<li><a href="custom">Custom</a></li>
+		<li><a href="handmade">Handmade</a></li>
+		
+    </ul>
+	</div>
+	
+	<!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> 
+	
+	<a href="deals">Deals</a>
+	<a href="contact">Contact</a>
 	</div>
 	</nav>
 	</div>
@@ -109,7 +134,8 @@
 	</div>
 	</section>
 
-
+	<section id="category-content">
+	
 	<div class="all">
 
 
@@ -132,7 +158,7 @@
 	<hr>
 	<br>
 
-	<div class="filter-pills">
+<!-- 	<div class="filter-pills">
 	<a href="leather" class="pill leather">Leather (65)</a>
 	<a href="nato" class="pill nato">Nato (52)</a>
 	<a href="sailcloth" class="pill sailcloth">Sailcloth (13)</a>
@@ -142,15 +168,41 @@
 	<a href="rubber" class="pill rubber">Rubber (33)</a>
 	<a href="metal" class="pill metal">Metal (19)</a>
 	<a href="custom" class="pill custom">Custom (27)</a>
+	</div> -->
+
+	<div class="filter-container"> 
+	<div class="filters">
+
+	<div class="ui-group">
+    <h3>Store location</h3>
+    <div class="button-group js-radio-button-group" data-filter-group="color">
+    	<button class="button is-checked" data-filter="">Any</button>
+   		<button class="button" data-filter=".fi">Finland</button>
+		<button class="button" data-filter=".ro">Romania</button>
+	  	<button class="button" data-filter=".ru">Russia</button>
+	  	<button class="button" data-filter=".uk">United Kingdom</button>
+    </div>
 	</div>
+  
+  
+
+	  <div class="ui-group mt2">
+		<h3>Price range (Buttero)</h3>
+		<div class="button-group js-radio-button-group" data-filter-group="size">
+		  <button class="button is-checked" data-filter="">Any</button>
+		  <button class="button" data-filter=".but120l">Below $120</button>
+		  <button class="button" data-filter=".but120m">Above $120</button>
+		</div>
+	  </div>
+	  
+	</div>
+	</div> 
 
 	<!-- Ispod su vendori -->
+	
+	<div class="grid">
 
-
-
-
-
-	<div class="card-wrapper">
+	<div class="card-wrapper ru but120l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/asketica.png" loading="lazy" alt="Asketica Watch logo" /> </div>
 	<div class="card-content">
@@ -181,7 +233,7 @@
 	
 	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper fi but120l but120m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="fin-watch-straps"><img src="images/fin.png" loading="lazy" alt="fin watch straps logo" /></a> </div>
 	<div class="card-content">
@@ -214,7 +266,7 @@
 	
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper ro but120m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="genteel-handmade"><img src="images/genteel.png" loading="lazy" alt="Genteel Handmade logo" /></a> </div>
 	<div class="card-content">
@@ -241,7 +293,7 @@
 	
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk but120m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="the-strap-tailor"><img src="images/thestraptailor.png" loading="lazy" alt="The Strap Tailor logo" /></a> </div>
 	<div class="card-content">
@@ -274,9 +326,10 @@
 	
 		
 
-	
-
 	</div>
+	
+	</div>
+	</section>
 
 	<footer class="white-bg">
 	<div class="fl contact">
@@ -284,6 +337,10 @@
 	</div>
 	<p class="small">Copyright &copy; 2023 - All rights reserved</p>
 	</footer>
-
+	
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> -->
+	<!-- <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script> -->
+	<script src="js/app.js"></script>
 	</body>
+<script>"use strict";document.addEventListener("DOMContentLoaded", function(){function uncheckBox(){var checkbox=document.querySelector("#checkbox-toggle");var isChecked=checkbox.checked;if (isChecked){checkbox.checked=false;}}document.body.addEventListener("click", function(){uncheckBox();}); var checkboxToggle=document.querySelector("#checkbox-toggle"); var label=document.querySelector("label"); checkboxToggle.addEventListener("click", function(e){e.stopPropagation();}); label.addEventListener("click", function(e){e.stopPropagation();});});</script>
 	</html>

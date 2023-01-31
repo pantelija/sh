@@ -43,7 +43,32 @@
 	<a href="https://www.straphunter.com"><img src="images/logo.png" alt="strap hunter logo"></a>
 	</div>
 	<div class="nav-links">
-	<a class="svinav" href="https://www.straphunter.com">Home</a>  <a href="all">Stores</a> <a href="deals">Deals</a> <!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> <a href="contact">Contact</a>
+	<a class="svinav" href="https://www.straphunter.com">Home</a> 
+	
+	<div class="dropdown">
+    <input type="checkbox" id="checkbox-toggle">
+    <label for="checkbox-toggle">Stores</label>
+	
+    <ul>
+        <li><a href="all">All stores</a><span class="main-nav-notif">76</span></li>
+		<li><a href="leather">Leather</a></li>
+        <li><a href="nato">Nato</a></li>
+		<li><a href="sailcloth">Sailcloth</a></li>
+		<li><a href="perlon">Perlon</a></li>
+		<li><a href="elastic">Elastic</a></li>
+        <li><a href="canvas">Canvas</a></li>
+        <li><a href="rubber">Rubber</a></li>
+		<li><a href="metal">Metal</a></li>
+		<li><a href="custom">Custom</a></li>
+		<li><a href="handmade">Handmade</a></li>
+		
+    </ul>
+	</div>
+	
+	<!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> 
+	
+	<a href="deals">Deals</a>
+	<a href="contact">Contact</a>
 	</div>
 	</nav>
 	</div>
@@ -109,7 +134,8 @@
 	For premium options please check out Artem's sailcloth. They have a variety  of styles and prices start from $85.</p>
 	</div>
 	</section>
-
+	
+	<section id="category-content">
 
 	<div class="all">
 
@@ -129,6 +155,7 @@
 	<hr>
 	<br>
 
+<!-- 	
 	<div class="filter-pills">
 	<a href="leather" class="pill leather">Leather (65)</a>
 	<a href="nato" class="pill nato">Nato (52)</a>
@@ -140,12 +167,48 @@
 	<a href="metal" class="pill metal">Metal (19)</a>
 	<a href="custom" class="pill custom">Custom (27)</a>
 	</div>
+ -->
+	
+
+	<div class="filter-container"> 
+	<div class="filters">
+
+
+
+
+	<div class="ui-group">
+    <h3>Store location</h3>
+    <div class="button-group js-radio-button-group" data-filter-group="color">
+    	<button class="button is-checked" data-filter="">Any</button>
+		<button class="button" data-filter=".aus">Australia</button>
+		<button class="button" data-filter=".fi">Finland</button>
+   		<button class="button" data-filter=".ger">Germany</button>
+		<button class="button" data-filter=".hk">Hong Kong</button>
+	  	<button class="button" data-filter=".sq">Singapore</button>
+	  	<button class="button" data-filter=".uk">United Kingdom</button>
+	  	<button class="button" data-filter=".us">United States</button>
+    </div>
+	</div>
+  
+  
+
+	 <div class="ui-group mt2">
+		<h3>Price range (sailcloth)</h3>
+		<div class="button-group js-radio-button-group" data-filter-group="size">
+			<button class="button is-checked" data-filter="">Any</button>
+		  <button class="button" data-filter=".slc50l">Below $50</button>
+		  <button class="button" data-filter=".slc50m">Above $50</button>
+		</div>
+	  </div>
+	 
+	</div>
+	</div> 
 
 	<!-- Ispod su vendori -->
+	
+	<div class="grid">
 
-
-
-	<div class="card-wrapper">
+	<div class="card-wrapper aus slc50m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="artem-straps"><img src="images/artem.png" loading="lazy" alt="Artem Straps logo" /></a> </div>
 	<div class="card-content">
@@ -173,7 +236,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us slc50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="barton-watch-bands"><img src="images/barton.png" loading="lazy" alt="BARTON Watch Bands logo" /></a> </div>
 	<div class="card-content">
@@ -202,7 +265,7 @@
 	</div>
 	</div>
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us slc50l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/clockworks.png" loading="lazy" alt="Clockwork Sinergy   logo" /> </div>
 	<div class="card-content">
@@ -232,7 +295,7 @@
 	</div>
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper fi slc50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="fin-watch-straps"><img src="images/fin.png" loading="lazy" alt="fin watch straps logo" /></a> </div>
 	<div class="card-content">
@@ -250,19 +313,19 @@
 	</div>
 	<div class="card-bottom">
 	<div class="card-pills">
-						<a href="leather" class="pill leather">Leather</a>
-						<a href="sailcloth" class="pill sailcloth">Sailcloth</a>
-						<a href="canvas" class="pill canvas">Canvas</a>
-						<a href="nato" class="pill nato">Nato</a>
-						<a href="rubber" class="pill rubber">Rubber</a>
-						<a href="custom" class="pill custom">Custom</a>
+	<a href="leather" class="pill leather">Leather</a>
+	<a href="sailcloth" class="pill sailcloth">Sailcloth</a>
+	<a href="canvas" class="pill canvas">Canvas</a>
+	<a href="nato" class="pill nato">Nato</a>
+	<a href="rubber" class="pill rubber">Rubber</a>
+	<a href="custom" class="pill custom">Custom</a>
 	</div>
 	<div class="card-website"> <a href="https://finwatchstraps.com" target="_blank" rel="noopener">finwatchstraps.com</a> </div>
 	</div>
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us slc50m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="holbens"><img src="images/holbens.png" loading="lazy" alt="holbens bands logo" /></a> </div>
 	<div class="card-content">
@@ -296,7 +359,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk slc50l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/mks.png" loading="lazy" alt="MKS Nato Straps logo" /> </div>
 	<div class="card-content">
@@ -326,7 +389,7 @@
 
 
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper sg slc50m">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/monstraps.png" loading="lazy" alt="Monstraps logo" /> </div>
 	<div class="card-content">
@@ -356,7 +419,7 @@
 	</div>
 	</div>	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper hk slc50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="strapcode"><img src="images/strapcode.png" loading="lazy" alt="Strapcode logo" /></a> </div>
 	<div class="card-content">
@@ -388,7 +451,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us slc50l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/straphabit.png" loading="lazy" alt="StrapHabit logo" /> </div>
 	<div class="card-content">
@@ -421,7 +484,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper ger slc50l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/watchbandit.png" loading="lazy" alt="Watchbandit logo" /> </div>
 	<div class="card-content">
@@ -452,7 +515,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk slc50m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="watchgecko"><img src="images/watchgecko.png" loading="lazy" alt="WatchGecko logo" /></a> </div>
 	<div class="card-content">
@@ -476,7 +539,6 @@
 	<a href="leather" class="pill leather">Leather</a>
 	<a href="nato" class="pill nato">Nato</a>
 	<a href="sailcloth" class="pill sailcloth">Sailcloth</a>
-	<a href="perlon" class="pill perlon">Perlon</a>
 	<a href="elastic" class="pill elastic">Elastic</a>
 	<a href="canvas" class="pill canvas">Canvas</a>
 	<a href="metal" class="pill metal">Metal</a>
@@ -487,7 +549,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk slc50m">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/watchobsession.png" loading="lazy" alt="WatchObsession UK logo" /> </div>
 	<div class="card-content">
@@ -520,7 +582,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk slc50m slc50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="zulu-diver"><img src="images/zuludiver.png" loading="lazy" alt="zulu diver logo" /></a> </div>
 	<div class="card-content">
@@ -555,6 +617,9 @@
 
 
 	</div>
+	
+	</div>
+	</section>
 
 	<footer class="white-bg">
 	<div class="fl contact">
@@ -562,6 +627,11 @@
 	</div>
 	<p class="small">Copyright &copy; 2023 - All rights reserved</p>
 	</footer>
-
+	
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> -->
+	<!-- <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script> -->
+	<script src="js/app.js"></script>
+	
 	</body>
+<script>"use strict";document.addEventListener("DOMContentLoaded", function(){function uncheckBox(){var checkbox=document.querySelector("#checkbox-toggle");var isChecked=checkbox.checked;if (isChecked){checkbox.checked=false;}}document.body.addEventListener("click", function(){uncheckBox();}); var checkboxToggle=document.querySelector("#checkbox-toggle"); var label=document.querySelector("label"); checkboxToggle.addEventListener("click", function(e){e.stopPropagation();}); label.addEventListener("click", function(e){e.stopPropagation();});});</script>
 	</html>

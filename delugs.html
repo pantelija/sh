@@ -44,7 +44,32 @@
 					<a href="https://www.straphunter.com"><img src="images/logo.png" alt="strap hunter logo"></a>
 				</div>
 				<div class="nav-links">
-					<a class="svinav" href="https://www.straphunter.com">Home</a>  <a href="all">Stores</a> <a href="deals">Deals</a> <!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> <a href="contact">Contact</a>
+				<a class="svinav" href="https://www.straphunter.com">Home</a> 
+	
+	<div class="dropdown">
+    <input type="checkbox" id="checkbox-toggle">
+    <label for="checkbox-toggle">Stores</label>
+	
+    <ul>
+        <li><a href="all">All stores</a><span class="main-nav-notif">76</span></li>
+		<li><a href="leather">Leather</a></li>
+        <li><a href="nato">Nato</a></li>
+		<li><a href="sailcloth">Sailcloth</a></li>
+		<li><a href="perlon">Perlon</a></li>
+		<li><a href="elastic">Elastic</a></li>
+        <li><a href="canvas">Canvas</a></li>
+        <li><a href="rubber">Rubber</a></li>
+		<li><a href="metal">Metal</a></li>
+		<li><a href="custom">Custom</a></li>
+		<li><a href="handmade">Handmade</a></li>
+		
+    </ul>
+	</div>
+	
+	<!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> 
+	
+	<a href="deals">Deals</a>
+	<a href="contact">Contact</a>
 				</div>
 			</nav>
 		</div>
@@ -161,4 +186,5 @@
 				<p class="small">Copyright &copy; 2023 - All rights reserved</p>
 			</footer>
 		</body>
+<script>"use strict";document.addEventListener("DOMContentLoaded", function(){function uncheckBox(){var checkbox=document.querySelector("#checkbox-toggle");var isChecked=checkbox.checked;if (isChecked){checkbox.checked=false;}}document.body.addEventListener("click", function(){uncheckBox();}); var checkboxToggle=document.querySelector("#checkbox-toggle"); var label=document.querySelector("label"); checkboxToggle.addEventListener("click", function(e){e.stopPropagation();}); label.addEventListener("click", function(e){e.stopPropagation();});});</script>
 		</html>

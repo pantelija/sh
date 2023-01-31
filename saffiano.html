@@ -43,7 +43,32 @@
 	<a href="https://www.straphunter.com"><img src="images/logo.png" alt="strap hunter logo"></a>
 	</div>
 	<div class="nav-links">
-	<a class="svinav" href="https://www.straphunter.com">Home</a>  <a href="all">Stores</a> <a href="deals">Deals</a> <!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> <a href="contact">Contact</a>
+	<a class="svinav" href="https://www.straphunter.com">Home</a> 
+	
+	<div class="dropdown">
+    <input type="checkbox" id="checkbox-toggle">
+    <label for="checkbox-toggle">Stores</label>
+	
+    <ul>
+        <li><a href="all">All stores</a><span class="main-nav-notif">76</span></li>
+		<li><a href="leather">Leather</a></li>
+        <li><a href="nato">Nato</a></li>
+		<li><a href="sailcloth">Sailcloth</a></li>
+		<li><a href="perlon">Perlon</a></li>
+		<li><a href="elastic">Elastic</a></li>
+        <li><a href="canvas">Canvas</a></li>
+        <li><a href="rubber">Rubber</a></li>
+		<li><a href="metal">Metal</a></li>
+		<li><a href="custom">Custom</a></li>
+		<li><a href="handmade">Handmade</a></li>
+		
+    </ul>
+	</div>
+	
+	<!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> 
+	
+	<a href="deals">Deals</a>
+	<a href="contact">Contact</a>
 	</div>
 	</nav>
 	</div>
@@ -115,7 +140,7 @@
 	</div>
 	</section>
 
-
+	<section id="category-content">
 	<div class="all">
 
 
@@ -135,7 +160,7 @@
 	<hr>
 	<br>
 
-	<div class="filter-pills">
+<!-- 	<div class="filter-pills">
 	<a href="leather" class="pill leather">Leather (65)</a>
 	<a href="nato" class="pill nato">Nato (52)</a>
 	<a href="sailcloth" class="pill sailcloth">Sailcloth (13)</a>
@@ -145,16 +170,50 @@
 	<a href="rubber" class="pill rubber">Rubber (33)</a>
 	<a href="metal" class="pill metal">Metal (19)</a>
 	<a href="custom" class="pill custom">Custom (27)</a>
+	</div> -->
+
+	<div class="filter-container"> 
+	<div class="filters">
+
+	<div class="ui-group">
+    <h3>Store location</h3>
+    <div class="button-group js-radio-button-group" data-filter-group="color">
+    	<button class="button is-checked" data-filter="">Any</button>
+	  	<button class="button" data-filter=".arg">Argentina</button>
+		<button class="button" data-filter=".aus">Australia</button>
+		<button class="button" data-filter=".ca">Canada</button>
+		<button class="button" data-filter=".it">Italy</button>
+		<button class="button" data-filter=".fr">France</button>
+		<button class="button" data-filter=".sg">Singapore</button>
+	  	<button class="button" data-filter=".us">United States</button>
+    </div>
 	</div>
+  
+  
+
+	  <div class="ui-group mt2">
+		<h3>Price range (Saffiano)</h3>
+		<div class="button-group js-radio-button-group" data-filter-group="size">
+		  <button class="button is-checked" data-filter="">Any</button>
+		  <button class="button" data-filter=".saf100l">Below $100</button>
+		  <button class="button" data-filter=".saf100m">Above $100</button>
+		</div>
+	  </div>
+	  
+	</div>
+	</div> 
 
 	<!-- Ispod su vendori -->
+	
+	<div class="grid">
+
 
 
 
 
 
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper arg saf100l saf100m ">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/atelier.png" loading="lazy" alt="Atelier del Sur logo" /> </div>
 	<div class="card-content">
@@ -184,7 +243,7 @@
 	
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper sg saf100l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="delugs"><img src="images/delugs.png" loading="lazy" alt="Delugs logo" /></a> </div>
 	<div class="card-content">
@@ -218,7 +277,7 @@
 	
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper it saf100l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/glc.png" loading="lazy" alt="GLC Straps logo" /> </div>
 	<div class="card-content">
@@ -249,7 +308,7 @@
 	
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper fr saf100m ">
 	<div class="card-top">
 	<div class="company-logo"> <a href="molequin"><img src="images/molequin.png" loading="lazy" alt="Molequin Straps logo" /></a> </div>
 	<div class="card-content">
@@ -275,7 +334,7 @@
 	</div>
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper sg saf100l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/monstraps.png" loading="lazy" alt="Monstraps logo" /> </div>
 	<div class="card-content">
@@ -308,7 +367,7 @@
 	
 	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper ca saf100l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/smc.png" loading="lazy" alt="SMC Strap Mill Canada logo" /> </div>
 	<div class="card-content">
@@ -341,7 +400,7 @@
 	
 	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us saf100l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/veblenist.png" loading="lazy" alt="Veblenist logo" /> </div>
 	<div class="card-content">
@@ -371,7 +430,7 @@
 	
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper aus saf100m">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/vecchio.png" loading="lazy" alt="Vecchio Times logo" /> </div>
 	<div class="card-content">
@@ -403,9 +462,10 @@
 
 		
 
-	
-
 	</div>
+	
+	</div>
+	</section>
 
 	<footer class="white-bg">
 	<div class="fl contact">
@@ -413,6 +473,10 @@
 	</div>
 	<p class="small">Copyright &copy; 2023 - All rights reserved</p>
 	</footer>
-
+	
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> -->
+	<!-- <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script> -->
+	<script src="js/app.js"></script>
 	</body>
+<script>"use strict";document.addEventListener("DOMContentLoaded", function(){function uncheckBox(){var checkbox=document.querySelector("#checkbox-toggle");var isChecked=checkbox.checked;if (isChecked){checkbox.checked=false;}}document.body.addEventListener("click", function(){uncheckBox();}); var checkboxToggle=document.querySelector("#checkbox-toggle"); var label=document.querySelector("label"); checkboxToggle.addEventListener("click", function(e){e.stopPropagation();}); label.addEventListener("click", function(e){e.stopPropagation();});});</script>
 	</html>

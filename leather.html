@@ -43,7 +43,32 @@
 	<a href="https://www.straphunter.com"><img src="images/logo.png" alt="strap hunter logo"></a>
 	</div>
 	<div class="nav-links">
-	<a class="svinav" href="https://www.straphunter.com">Home</a>  <a href="all">Stores</a> <a href="deals">Deals</a> <!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> <a href="contact">Contact</a>
+	<a class="svinav" href="https://www.straphunter.com">Home</a> 
+	
+	<div class="dropdown">
+    <input type="checkbox" id="checkbox-toggle">
+    <label for="checkbox-toggle">Stores</label>
+	
+    <ul>
+        <li><a href="all">All stores</a><span class="main-nav-notif">76</span></li>
+		<li><a href="leather">Leather</a></li>
+        <li><a href="nato">Nato</a></li>
+		<li><a href="sailcloth">Sailcloth</a></li>
+		<li><a href="perlon">Perlon</a></li>
+		<li><a href="elastic">Elastic</a></li>
+        <li><a href="canvas">Canvas</a></li>
+        <li><a href="rubber">Rubber</a></li>
+		<li><a href="metal">Metal</a></li>
+		<li><a href="custom">Custom</a></li>
+		<li><a href="handmade">Handmade</a></li>
+		
+    </ul>
+	</div>
+	
+	<!--  <a href="best">Best Buys</a>   <a href="blog">Blog</a>--> 
+	
+	<a href="deals">Deals</a>
+	<a href="contact">Contact</a>
 	</div>
 	</nav>
 	</div>
@@ -132,7 +157,7 @@
 	</section>
 
 
-
+	<section id="category-content">
 	<div class="all">
 
 
@@ -152,7 +177,7 @@
 	<hr>
 	<br>
 
-	<div class="filter-pills">
+<!-- 	<div class="filter-pills">
 	<a href="leather" class="pill leather">Leather (65)</a>
 	<a href="nato" class="pill nato">Nato (52)</a>
 	<a href="sailcloth" class="pill sailcloth">Sailcloth (13)</a>
@@ -162,14 +187,54 @@
 	<a href="rubber" class="pill rubber">Rubber (33)</a>
 	<a href="metal" class="pill metal">Metal (19)</a>
 	<a href="custom" class="pill custom">Custom (27)</a>
+	</div> -->
+
+	<div class="filter-container"> 
+	<div class="filters">
+
+	<div class="ui-group">
+    <h3>Store location</h3>
+    <div class="button-group js-radio-button-group" data-filter-group="color">
+    	<button class="button is-checked" data-filter="">Any</button>
+		
+		
+		<button class="button" data-filter=".asia">Asian countries</button>
+		<button class="button" data-filter=".arg">Argentina</button>
+		<button class="button" data-filter=".aus">Australia</button>
+   		<button class="button" data-filter=".ca">Canada</button>
+		<button class="button" data-filter=".eu">European countries</button>
+	  	<button class="button" data-filter=".uk">United Kingdom</button>
+		<button class="button" data-filter=".us">United States</button>
+		
+
+    </div>
 	</div>
+  
+  
+
+	  <div class="ui-group mt2">
+		<h3>Price range (leather)</h3>
+		<div class="button-group js-radio-button-group" data-filter-group="size">
+		  <button class="button is-checked" data-filter="">Any</button>
+		  <button class="button" data-filter=".lth50l">Below $50</button>
+		  <button class="button" data-filter=".lth50l100">$50 - $100</button>
+		  <button class="button" data-filter=".lth100200">$100 - 200$</button>
+		  <button class="button" data-filter=".lth200m">Above $200</button>
+		</div>
+	  </div>
+	  
+	</div>
+	</div> 
 
 	<!-- Ispod su vendori -->
+	
+	<div class="grid">
 
 
 
 
-	<div class="card-wrapper">
+
+	<div class="card-wrapper eu lth100200 lth200m  ">
 	<div class="card-top">
 	<div class="company-logo"> <a href="1787-straps"><img src="images/1787.png" loading="lazy" alt="1787 straps logo" /></a> </div>
 	<div class="card-content">
@@ -199,7 +264,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu  lth50l100 lth100200 ">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/asketica.png" loading="lazy" alt="Asketica Watch logo" /> </div>
 	<div class="card-content">
@@ -225,7 +290,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper arg  lth50l100 lth100200 ">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/atelier.png" loading="lazy" alt="Atelier del Sur logo" /> </div>
 	<div class="card-content">
@@ -254,7 +319,7 @@
 	
 	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l100 lth50l100  ">
 	<div class="card-top">
 	<div class="company-logo"> <a href="br-bands"><img src="images/brbands.png" loading="lazy" alt="B &amp; R Bands logo" /></a> </div>
 	<div class="card-content">
@@ -288,7 +353,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/barkandjack.png" loading="lazy" alt="Bark and Jack logo" /> </div>
 	<div class="card-content">
@@ -315,7 +380,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="barton-watch-bands"><img src="images/barton.png" loading="lazy" alt="BARTON Watch Bands logo" /></a> </div>
 	<div class="card-content">
@@ -346,7 +411,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <a href="blushark-straps"><img src="images/blushark.png" loading="lazy" alt="BluShark straps logo" /></a> </div>
 	<div class="card-content">
@@ -378,7 +443,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu  lth50l100 lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="bulang-and-sons"><img src="images/bulang.png" loading="lazy" alt="Bulang and Sons logo" /></a> </div>
 	<div class="card-content">
@@ -407,7 +472,7 @@
 	</div>
 	</div>
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/cincistrapco.png" loading="lazy" alt="Cincy Strap Company logo" /> </div>
 	<div class="card-content">
@@ -436,7 +501,7 @@
 	</div>
 	</div>	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/clockworks.png" loading="lazy" alt="Clockwork Sinergy   logo" /> </div>
 	<div class="card-content">
@@ -466,7 +531,7 @@
 	</div>
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="cns-watch-bands"><img src="images/cns.png" loading="lazy" alt="CNS &amp; Watch Bands logo" /></a> </div>
 	<div class="card-content">
@@ -497,7 +562,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth50l lth50l100 lth100200 ">
 	<div class="card-top">
 	<div class="company-logo"> <a href="colareb"><img src="images/colareb.png" loading="lazy" alt="Colareb logo" /></a> </div>
 	<div class="card-content">
@@ -524,7 +589,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth50l100 lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <a href="crafter-blue"><img src="images/crafterblue.png" loading="lazy" alt="Crafter Blue logo" /></a> </div>
 	<div class="card-content">
@@ -552,7 +617,7 @@
 	</div>
 	</div>
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <a href="crown-and-buckle"><img src="images/crownandbuckle.png" loading="lazy" alt="Crown &amp; Buckle logo" /></a> </div>
 	<div class="card-content">
@@ -581,7 +646,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us  lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/daluca.png" loading="lazy" alt="DaLuca Straps logo" /> </div>
 	<div class="card-content">
@@ -610,7 +675,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth200m lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/dangerous9straps.png" loading="lazy" alt="Dangerous9straps logo" /> </div>
 	<div class="card-content">
@@ -636,7 +701,7 @@
 	</div>
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <a href="delugs"><img src="images/delugs.png" loading="lazy" alt="Delugs logo" /></a> </div>
 	<div class="card-content">
@@ -668,7 +733,7 @@
 	</div>
 	</div>
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/dstrap.png" loading="lazy" alt="Dstrap logo" /> </div>
 	<div class="card-content">
@@ -694,7 +759,7 @@
 	</div>
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper aus  lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/eshandcrafted.png" loading="lazy" alt="ES Handcrafted logo" /> </div>
 	<div class="card-content">
@@ -722,7 +787,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth50l lth50l100 lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="esprit-nato"><img src="images/esprit.png" loading="lazy" alt="esprit nato logo" /></a> </div>
 	<div class="card-content">
@@ -751,7 +816,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="everest-bands"><img src="images/everest.png" loading="lazy" alt="everest bands logo" /></a> </div>
 	<div class="card-content">
@@ -776,7 +841,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu  lth50l100 lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="fin-watch-straps"><img src="images/fin.png" loading="lazy" alt="fin watch straps logo" /></a> </div>
 	<div class="card-content">
@@ -794,12 +859,12 @@
 	</div>
 	<div class="card-bottom">
 	<div class="card-pills">
-						<a href="leather" class="pill leather">Leather</a>
-						<a href="sailcloth" class="pill sailcloth">Sailcloth</a>
-						<a href="canvas" class="pill canvas">Canvas</a>
-						<a href="nato" class="pill nato">Nato</a>
-						<a href="rubber" class="pill rubber">Rubber</a>
-						<a href="custom" class="pill custom">Custom</a>
+	<a href="leather" class="pill leather">Leather</a>
+	<a href="sailcloth" class="pill sailcloth">Sailcloth</a>
+	<a href="canvas" class="pill canvas">Canvas</a>
+	<a href="nato" class="pill nato">Nato</a>
+	<a href="rubber" class="pill rubber">Rubber</a>
+	<a href="custom" class="pill custom">Custom</a>
 	</div>
 	<div class="card-website"> <a href="https://finwatchstraps.com" target="_blank" rel="noopener">finwatchstraps.com</a> </div>
 	</div>
@@ -809,7 +874,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu  lth50l100 lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="genteel-handmade"><img src="images/genteel.png" loading="lazy" alt="Genteel Handmade logo" /></a> </div>
 	<div class="card-content">
@@ -836,7 +901,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth50l100 lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/glc.png" loading="lazy" alt="GLC Straps logo" /> </div>
 	<div class="card-content">
@@ -865,7 +930,7 @@
 	
 	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/gunny.png" loading="lazy" alt="Gunny Straps Official logo" /> </div>
 	<div class="card-content">
@@ -893,7 +958,7 @@
 	</div>
 	</div>	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth50l100 lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/hnb.png" loading="lazy" alt="Has No Bounds logo" /> </div>
 	<div class="card-content">
@@ -918,7 +983,7 @@
 	</div>
 	</div>
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk lth50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="haveston"><img src="images/haveston.png" loading="lazy" alt="Haveston logo" /></a>
 	</div>
@@ -949,7 +1014,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us  lth50l100 lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="hodinkee-shop"><img src="images/hodinkee.png" loading="lazy" alt="hodinkee shop logo" /></a> </div>
 	<div class="card-content">
@@ -976,7 +1041,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <a href="holbens"><img src="images/holbens.png" loading="lazy" alt="holbens bands logo" /></a> </div>
 	<div class="card-content">
@@ -1008,7 +1073,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu  lth50l100 lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="jacob-straps"><img src="images/jacobs.png" loading="lazy" alt="Jacobstraps logo" /></a> </div>
 	<div class="card-content">
@@ -1034,7 +1099,7 @@
 	</div>
 	
 	
-		<div class="card-wrapper">
+	<div class="card-wrapper us lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/jean-rousseau.png" loading="lazy" alt="Jean Rousseau logo" /> </div>
 	<div class="card-content">
@@ -1060,7 +1125,7 @@
 	</div>	
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <a href="joseph-bonnie"><img src="images/josephbonnie.png" loading="lazy" alt="josephbonnie logo" /></a> </div>
 	<div class="card-content">
@@ -1086,7 +1151,7 @@
 	</div>
 	</div>
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l100 lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/keepiece.png" loading="lazy" alt="Keepiece logo" /> </div>
 	<div class="card-content">
@@ -1111,7 +1176,7 @@
 	</div>
 	</div>
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu  lth50l100 lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/lic.png" loading="lazy" alt="Lic Leather logo" /> </div>
 	<div class="card-content">
@@ -1136,7 +1201,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="luff-watch-strap"><img src="images/luff.png" loading="lazy" alt="LuffWatchStrap logo" /></a> </div>
 	<div class="card-content">
@@ -1165,7 +1230,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/lugs.png" loading="lazy" alt="LUGS straps logo" /> </div>
 	<div class="card-content">
@@ -1191,7 +1256,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk lth50l">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/mks.png" loading="lazy" alt="MKS Nato Straps logo" /> </div>
 	<div class="card-content">
@@ -1221,7 +1286,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="molequin"><img src="images/molequin.png" loading="lazy" alt="Molequin Straps logo" /></a> </div>
 	<div class="card-content">
@@ -1249,7 +1314,7 @@
 
 
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper asia  lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/monstraps.png" loading="lazy" alt="Monstraps logo" /> </div>
 	<div class="card-content">
@@ -1280,7 +1345,7 @@
 	</div>	
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth50l100 lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/nerobiglia.png" loading="lazy" alt="Nero Biglia logo" /> </div>
 	<div class="card-content">
@@ -1307,7 +1372,7 @@
 	</div>
 	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <a href="north-street-watch-straps"><img src="images/north.png" loading="lazy" alt="North Street Watch Straps logo" /></a> </div>
 	<div class="card-content">
@@ -1338,7 +1403,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu  lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <a href="rem-straps"><img src="images/rem.png" loading="lazy" alt="REM Straps logo" /></a> </div>
 	<div class="card-content">
@@ -1364,7 +1429,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth100200 ">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/roverhaven.png" loading="lazy" alt="Rover Haven Straps logo" /> </div>
 	<div class="card-content">
@@ -1395,7 +1460,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="singular-straps"><img src="images/singular.png" loading="lazy" alt="Singular Straps logo" /></a> </div>
 	<div class="card-content">
@@ -1428,7 +1493,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper ca lth50l lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/smc.png" loading="lazy" alt="SMC Strap Mill Canada logo" /> </div>
 	<div class="card-content">
@@ -1459,7 +1524,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth100200 ">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/soturi.png" loading="lazy" alt="Soturi Design logo" /> </div>
 	<div class="card-content">
@@ -1485,7 +1550,7 @@
 	</div>
 	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth50l lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <a href="strapcode"><img src="images/strapcode.png" loading="lazy" alt="Strapcode logo" /></a> </div>
 	<div class="card-content">
@@ -1519,7 +1584,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth50l ">
 	<div class="card-top">
 	<div class="company-logo"> <a href="straposphere"><img src="images/straposphere.png" loading="lazy" alt="Straposphere logo" /></a> </div>
 	<div class="card-content">
@@ -1550,7 +1615,7 @@
 	</div>
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l lth50l100 ">
 	<div class="card-top">
 	<div class="company-logo"> <a href="strapsco"><img src="images/strapsco.png" loading="lazy" alt="StrapsCo logo" /></a> </div>
 	<div class="card-content">
@@ -1584,7 +1649,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us  lth50l100 lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="tc-straps"><img src="images/tcstraps.png" loading="lazy" alt="TC Straps logo" /></a> </div>
 	<div class="card-content">
@@ -1613,7 +1678,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <a href="the-strap-tailor"><img src="images/thestraptailor.png" loading="lazy" alt="The Strap Tailor logo" /></a> </div>
 	<div class="card-content">
@@ -1645,7 +1710,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu  lth50l100 lth100200 ">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/timeteamroma.png" loading="lazy" alt="Time Team Roma logo" /> </div>
 	<div class="card-content">
@@ -1671,7 +1736,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk lth50l ">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/timefactors.png" loading="lazy" alt="Timefactors logo" /> </div>
 	<div class="card-content">
@@ -1701,7 +1766,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu  lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <a href="two-stitch-straps"><img src="images/twostitch.png" loading="lazy" alt="Two Stitch Straps logo" /></a> </div>
 	<div class="card-content">
@@ -1731,7 +1796,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="vario-straps"><img src="images/vario.png" loading="lazy" alt="VARIO straps logo" /></a> </div>
 	<div class="card-content">
@@ -1760,7 +1825,7 @@
 
 
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper aus lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/vecchio.png" loading="lazy" alt="Vecchio Times logo" /> </div>
 	<div class="card-content">
@@ -1789,7 +1854,7 @@
 	</div>
 	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us  lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/veblenist.png" loading="lazy" alt="Veblenist logo" /> </div>
 	<div class="card-content">
@@ -1818,7 +1883,7 @@
 	</div>	
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <a href="velle-alexander"><img src="images/velle.png" loading="lazy" alt="Velle Alexander logo" /></a> </div>
 	<div class="card-content">
@@ -1846,7 +1911,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper us lth50l lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <a href="windup-watch-shop"><img src="images/windup.png" loading="lazy" alt="Windup Watch Shop logo" /></a> </div>
 	<div class="card-content">
@@ -1878,7 +1943,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper eu lth50l lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/watchbandit.png" loading="lazy" alt="Watchbandit logo" /> </div>
 	<div class="card-content">
@@ -1908,7 +1973,7 @@
 	</div>
 	</div>
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk lth50l lth50l100 lth100200">
 	<div class="card-top">
 	<div class="company-logo"> <a href="watchgecko"><img src="images/watchgecko.png" loading="lazy" alt="WatchGecko logo" /></a> </div>
 	<div class="card-content">
@@ -1932,7 +1997,6 @@
 	<a href="leather" class="pill leather">Leather</a>
 	<a href="nato" class="pill nato">Nato</a>
 	<a href="sailcloth" class="pill sailcloth">Sailcloth</a>
-	<a href="perlon" class="pill perlon">Perlon</a>
 	<a href="elastic" class="pill elastic">Elastic</a>
 	<a href="canvas" class="pill canvas">Canvas</a>
 	<a href="metal" class="pill metal">Metal</a>
@@ -1944,7 +2008,7 @@
 
 
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk lth50l lth50l100 lth100200 lth200m">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/watchobsession.png" loading="lazy" alt="WatchObsession UK logo" /> </div>
 	<div class="card-content">
@@ -1977,7 +2041,7 @@
 	</div>
 	
 	
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth100200 ">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/wotancraft.png" loading="lazy" alt="Wotancraft logo" /> </div>
 	<div class="card-content">
@@ -2003,7 +2067,7 @@
 	</div>
 	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper asia lth50l100 lth50l100">
 	<div class="card-top">
 	<div class="company-logo"> <img src="images/ziczac.png" loading="lazy" alt="Zic Zac Leather logo" /> </div>
 	<div class="card-content">
@@ -2029,7 +2093,7 @@
 	</div>
 	</div>	
 
-	<div class="card-wrapper">
+	<div class="card-wrapper uk lth50l">
 	<div class="card-top">
 	<div class="company-logo"> <a href="zulu-diver"><img src="images/zuludiver.png" loading="lazy" alt="zulu diver logo" /></a> </div>
 	<div class="card-content">
@@ -2063,9 +2127,10 @@
 	</div>
 
 
-
-
 	</div>
+	
+	</div>
+	</section>
 
 	<footer class="white-bg">
 	<div class="fl contact">
@@ -2073,6 +2138,12 @@
 	</div>
 	<p class="small">Copyright &copy; 2023 - All rights reserved</p>
 	</footer>
-
+	
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> -->
+	<!-- <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script> -->
+	<script src="js/app.js"></script>
+	
 	</body>
+<script>"use strict";document.addEventListener("DOMContentLoaded", function(){function uncheckBox(){var checkbox=document.querySelector("#checkbox-toggle");var isChecked=checkbox.checked;if (isChecked){checkbox.checked=false;}}document.body.addEventListener("click", function(){uncheckBox();}); var checkboxToggle=document.querySelector("#checkbox-toggle"); var label=document.querySelector("label"); checkboxToggle.addEventListener("click", function(e){e.stopPropagation();}); label.addEventListener("click", function(e){e.stopPropagation();});});</script>
 	</html>
+
