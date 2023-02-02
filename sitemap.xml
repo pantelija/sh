@@ -371,5 +371,35 @@
     <lastmod>2023-01-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-  </url>  
+  </url> 
+  <url>
+	<loc>https://www.straphunter.com/beads-of-rice</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url> 
+  <url>
+	<loc>https://www.straphunter.com/mesh</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url> 
+  <url>
+	<loc>https://www.straphunter.com/ribbed-nato</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url> 
+  <url>
+	<loc>https://www.straphunter.com/rubber-nato</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url> 
+  <url>
+	<loc>https://www.straphunter.com/ostrich</loc>
+    <lastmod>2023-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>   
 </urlset>
