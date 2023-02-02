@@ -714,9 +714,8 @@ a.showcase-link:hover {
   }
 
 .zig-image img {
-  width: 90%;
-  border-radius: 10px;
-  box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+  width: 100%;
+  border-radius: 54% 46% 55% 45% / 32% 67% 33% 68%;
 }
 
 
@@ -724,7 +723,7 @@ a.showcase-link:hover {
 .z1 {
   border-radius: 54% 46% 55% 45% / 32% 67% 33% 68%;
   background-size: cover;
-  height: 381px;
+  /* height: 381px; */
   width: 422px;
 }
 
