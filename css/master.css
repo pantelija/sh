@@ -713,6 +713,8 @@ a.showcase-link:hover {
   width: 380px; */
   }
 
+
+
 .zig-image img {
   width: 100%;
   border-radius: 54% 46% 55% 45% / 32% 67% 33% 68%;
@@ -1493,7 +1495,7 @@ span {
 
   .nav-container {
     padding: 0 20px;
-    position:static;
+    position: static;
   }
 
   .company-logo {
@@ -2208,52 +2210,48 @@ label{
 
 /*  The ul will have display:none by default */
 
-.dropdown ul{
+.mega-menu-wrapper {
     position: absolute;
     list-style: none;
     text-align: left;
     z-index: 1;
-	width: 200px;
+	width: auto;
 	top:50px;
     display: none;
-	left: 0;
-	padding: 1rem 0;
-    background: white;
-	
-	/* box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important; */
-	box-shadow: 0 15px 20px rgba(0,0,0,.075);
-	/* box-shadow:0 30px 30px rgba(62 66 66 / 22%)!important; */
-	/* border-bottom-right-radius: 1rem; */
-	/* border-bottom-left-radius: 1rem; */
+	left: -400px;
+	padding: 1rem 2rem 2rem 2rem;
+	background: white;
 	border-radius: 1rem;
-	border: 1px solid #e5e9ef;
-}
-}
-
-
-.dropdown ul li{
-    padding: 0 3px;
-    background-color: #fff;
-    color: #396ac6;
-    cursor: pointer;
+	box-shadow: 0 15px 20px rgba(0,0,0,.075); 
+	border: 1px solid #e5e9ef; 
+	overflow: auto ;
 }
 
 
 
+/* .dropdown ul li{ */
+    /* padding: 0 3px; */
+    /* background-color: #fff; */
+    /* color: #396ac6; */
+    /* cursor: pointer; */
+/* } */
 
 
-.dropdown ul li:hover{
-    background-color: #f5f7fa;
-    color: #FFF;
-}
 
-.dropdown ul li a{
-    color: #222;
-	line-height: 40px;
-    text-decoration: none;
-	font-size: 15px;
-	display:block;
-}
+
+
+/* .dropdown ul li:hover{ */
+    /* background-color: #f5f7fa; */
+    /* color: #FFF; */
+/* } */
+
+/* .dropdown ul li a{ */
+    /* color: #222; */
+	/* line-height: 40px; */
+    /* text-decoration: none; */
+	/* font-size: 15px; */
+	/* display:block; */
+/* } */
 
 label:hover {
 	color:#396ac6;
@@ -2265,14 +2263,14 @@ input[type=checkbox]:checked ~ label {
 }
 
 
-input[type=checkbox]:checked ~ ul {
+input[type=checkbox]:checked ~ .mega-menu-wrapper {
     display: block;
 }
 
 
 @media only screen and (max-width: 499px) {
-	.dropdown ul {
-	box-shadow: 0px 30px 60px 10px rgb(62 66 66 / 22%);
+	.mega-menu-wrapper {
+		box-shadow: 0px 30px 60px 10px rgb(62 66 66 / 22%);
 }
 }
 
@@ -2280,14 +2278,14 @@ input[type=checkbox]:checked ~ ul {
 @media only screen and (max-width: 330px) {
 
   
-.dropdown ul li a{
-	line-height: 32px;
-	font-size: 14px;
-}
+/* .dropdown ul li a{ */
+	/* line-height: 32px; */
+	/* font-size: 14px; */
+/* } */
 
-.dropdown ul {
-    width: 180px;
-}
+/* .dropdown ul { */
+    /* width: 180px; */
+/* } */
 }
 
 
@@ -2296,12 +2294,136 @@ span.main-nav-notif {
 	font-size: 12px;
     color: #3f5f78;
     margin: 0;
-    right: 25px;
+    margin-left: 0.5rem;
     padding: 6px;
     background: #e8eff7;
     border-radius: 50%;
     display: inline-block;
-    position: absolute;
-    top: 23px;
+   
     font-weight: bold;
+}
+
+.mega-menu-content a {
+	padding:0;
+	margin:0;
+}
+
+
+.mega-menu-content {
+	display: flex;
+	flex-direction: row;
+}
+
+
+
+.nav-cat-wrapper {
+	display:flex;
+	flex-direction: column;
+	width: 160px;
+}
+
+
+.nav-cat-wrapper:last-child {
+	width: 140px;
+}
+
+
+.w140 {
+	width: 140px;
+}
+
+.nav-bold-link {
+	color: #333;
+	font-size: 15px;
+}
+
+
+a.nav-bold-link {
+	padding: 6px 1rem;
+	margin-top: 1rem;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+
+ul.nav-sub-ul {
+	list-style:none;
+	
+}
+
+
+.nav-sub-ul li {
+	font-size: 15px;
+	line-height: 30px;
+	cursor: pointer;
+	display: block;
+}
+
+
+
+.nav-sub-ul li:hover, .nav-bold-link:hover  {
+	background-color: #f5f7fa; 
+}
+
+.nav-sub-ul li a {
+	font-size: 15px;
+	color: #585858;
+	padding: 0 1rem;
+	display: block;
+	
+}
+
+
+@media only screen and (max-width: 750px) {
+	
+.mega-menu-wrapper {
+	position: fixed;
+	width: 100%;
+	border-radius: 0;
+	top: 60px;
+	left: 0;
+	padding: 1rem 1rem 1rem 1rem;
+	overflow: auto ;
+}
+
+.nav-cat-wrapper {
+	width:25%;
+}
+}
+
+
+@media only screen and (max-width: 600px) {
+	
+	
+.mega-menu-wrapper {
+	bottom: 0px;
+	overflow: auto ;
+}
+
+.nav-cat-wrapper {
+	width:25%;
+}
+
+	
+	
+	
+.mega-menu-content {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+	
+.nav-cat-wrapper {
+	width:50%;
+}
+
+.nav-cat-wrapper:last-child a.nav-bold-link {
+    margin-top: 0.5rem; 
+}
+
+
+.nav-cat-wrapper:last-child {
+    margin-top: 1.5rem; 
+}
 }
