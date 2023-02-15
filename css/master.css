@@ -2427,3 +2427,18 @@ ul.nav-sub-ul {
     margin-top: 1.5rem; 
 }
 }
+
+
+span.company-handmade {
+	border-radius: 12px;
+    border: 1px dashed #e39219;
+    padding: 5px 10px;
+    display: inline-block;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 18px;
+    color: #e39219;
+    text-decoration: none;
+    margin-top: 1.2rem;
+	font-weight: normal;
+}
