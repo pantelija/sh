@@ -1113,6 +1113,10 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .featured {
    border: 1px solid #f1d171;
    box-shadow: 0 0.125rem 0.25rem rgb(255 193 7 / 40%);
+   background-image: url(../images/gallery.svg);
+   background-repeat: no-repeat;
+   background-size: 27px 23px;
+   background-position: calc(100% - 23px) 20px;
 }
 
 .featured:hover {
