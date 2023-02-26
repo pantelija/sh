@@ -136,7 +136,7 @@ h1 {
     background-size: 100%;
     margin: 0 -30px 0 -15px;
     padding: 20px 30px 20px 15px;
-}
+	}
 
 
 
@@ -729,158 +729,6 @@ a.showcase-link:hover {
   width: 422px;
 }
 
-.z-perlon {
-	 background-image: url(../images/z-perlon.jpg);
-	 
-}
-
-
-.z-handmade {
-	background-image: url(../images/z-handmade.jpg);
-
-}
-
-.z-rubber {
-  background-image: url(../images/z-rubber.jpg);
-  
-}
-
-.z-canvas {
-  background-image: url(../images/z-canvas.jpg);
-  
-}
-
-.z-leather {
-  background-image: url(../images/z-leather.jpg);
- 
-}
-
-
-.z-metal {
-  background-image: url(../images/z-metal.jpg);
-  
-}
-
-
-
-.z-elastic {
-  background-image: url(../images/z-elastic.jpg);
-}
-
-
-
-.z-nato {
-  background-image: url(../images/z-nato.jpg);
-}
-
-
-.z-custom {
-  background-image: url(../images/z-custom.jpg);
-  
-}
-
-
-.z-sailcloth {
-  background-image: url(../images/z-sailcloth.jpg);
-  
-}
-
-
-.z-home {
-  background-image: url(../images/z-home.jpg); 
-}
-
-
-
-.c-holbens {
-  background-image: url(../images/company-holbens.jpg);
-}
-
-
-.c-tss {
-  background-image: url(../images/company-tss.jpg);
-}
-
-.c-artem {
-  background-image: url(../images/company-artem.jpg);
-}
-
-.c-barton {
-  background-image: url(../images/company-barton.jpg);
-}
-
-.c-colareb {
-  background-image: url(../images/company-colareb.jpg);
-}
-
-
-.c-crafterblue {
-  background-image: url(../images/company-crafterblue.jpg);
-}
-
-
-.c-crownandbuckle {
-  background-image: url(../images/company-crownandbuckle.jpg);
-}
-
-.c-molequin {
-  background-image: url(../images/company-molequin.jpg);
-  }
-
-.c-everest {
-  background-image: url(../images/company-everest.jpg);
-  }
-  
-.c-blushark {
-background-image: url(../images/company-blushark.jpg);
-}
-
-
-.c-watchgecko {
-background-image: url(../images/company-watchgecko.jpg);
-}
-
-.c-strapsco {
-background-image: url(../images/company-strapsco.jpg);
-}
-
-
-.c-strapcode {
-background-image: url(../images/company-strapcode.jpg);
-}
-
-
-.c-haveston {
-background-image: url(../images/company-haveston.jpg);
-}
-
-
-.c-windup {
-background-image: url(../images/company-windup.jpg);
-}
-
-
-.c-hodinkee {
-background-image: url(../images/company-hodinkee.jpg);
-}
-
-.c-bulang {
-background-image: url(../images/company-bulang.jpg);
-}
-
-
-.c-singular {
-background-image: url(../images/company-singular.jpeg);
-}
-
-
-.c-phenomenato {
-background-image: url(../images/company-phenomenato.jpg);
-}
-
-.c-velle {
-background-image: url(../images/company-velle.jpg);
-}
 
 
 .shipping-price {
@@ -1107,6 +955,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .card-wrapper:hover {
   /* box-shadow: 0 .75rem .75rem 0.0375rem rgba(0,0,0,.075) !important; */
   box-shadow: 0 .75rem .75rem 0.0375rem rgba(0,0,0,.075);
+  transform: translateY(-2px);
   /* cursor: pointer; */
 }
 
@@ -1124,7 +973,10 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .featured:hover {
    
    /* box-shadow: 0 .5rem .75rem 0.0375rem rgb(255 193 7 / 40%); */
-   /* in-use box-shadow: 0 .5rem .75rem 0.0375rem rgb(255 193 7 / 27%); */
+   box-shadow: 0 .5rem .75rem 0.0375rem rgb(255 193 7 / 27%);
+   background-image: url(../images/gallery.svg);
+  
+   
 }
 
 .card-top {
@@ -1515,6 +1367,7 @@ span {
   .nav-container {
     padding: 0 20px;
     position: static;
+	border-bottom: 1px solid #efefef;
   }
 
   .company-logo {
