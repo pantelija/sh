@@ -1804,8 +1804,7 @@ p.sajt{
 
 footer {
   text-align: center;
-  padding-bottom: 2rem;
-  padding-top: 2rem;
+  padding: 2rem 15px;
   font-size: 14px;
   border-top: 4px dashed #e8eff7;
   
@@ -1814,6 +1813,7 @@ footer {
 
 .fl a {
   margin-right: 10px;
+  line-height: 1.7;
 }
 
 .small {
@@ -2386,4 +2386,11 @@ span.company-handmade {
     text-decoration: none;
     margin-top: 1.2rem;
 	font-weight: normal;
+}
+
+.noads {
+	padding: 15px;
+	background: #fffad1;
+	font-size: 15px;
+	border-left: 3px solid #ffc107;
 }
