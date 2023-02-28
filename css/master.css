@@ -730,6 +730,10 @@ a.showcase-link:hover {
 }
 
 
+img.for-b-image {
+	 border-radius: 0;
+}
+
 
 .shipping-price {
   margin-top: 1.5rem;
