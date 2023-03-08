@@ -17,6 +17,12 @@ body {
   font-size: 17px;
 }
 
+
+body:after {
+ display: none;
+ content: url(../images/gallery.svg);
+}
+
 ::selection{background-color:#fef4ad;color:#333;}
 
 .nav-container {
