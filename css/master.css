@@ -2404,3 +2404,64 @@ span.company-handmade {
 	font-size: 15px;
 	border-left: 3px solid #ffc107;
 }
+
+
+.stoposto {
+	width: 100%;
+
+}
+
+.full-bleed {
+	margin-left: -60%;
+	margin-right: -60;
+	width: calc(100% + 120%);
+}
+
+figure {
+	margin: 2rem 0;
+}
+
+figcaption {
+	font-size: 14px;
+}
+
+
+@media only screen and (max-width: 1280px) {
+	
+	
+.full-bleed {
+	margin-left: calc(310px - 50vw);
+	width: calc(100vw - 60px);
+}
+}
+
+
+@media only screen and (max-width: 680px) {
+	
+	
+.full-bleed {
+	margin-left: 0;
+	margin-right: 0;
+	width: 100%;
+}
+}
+
+.post-quote {
+	padding: 20px;
+	background: #fff;
+	font-size: 15px;
+	border-left: 4px solid #6777ad;
+}
+
+p.lead {
+	font-size: 18px;
+	font-style: italic;
+	margin-bottom: 2rem;
+}
+
+a.bio-link {
+	color: #222;
+	font-weight: bold;
+	text-decoration: none;
+	margin-right: 4px;
+}
