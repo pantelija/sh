@@ -721,9 +721,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/artisan-straps</loc>
+    <loc>https://www.straphunter.com/uk</loc>
     <lastmod>2023-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.straphunter.com/us</loc>
+    <lastmod>2023-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+    <url>
+    <loc>https://www.straphunter.com/australia</loc>
+    <lastmod>2023-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/artisan-straps</loc>
+    <lastmod>2023-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>  
 </urlset>

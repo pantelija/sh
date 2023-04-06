@@ -443,6 +443,11 @@ a.company-link:hover {
 }
 
 
+a.country-link {
+	color: #556978;
+	text-decoration: none;
+}
+
 
 a.showcase-link {
 	text-decoration: underline;
