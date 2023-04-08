@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.straphunter.com/</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
@@ -15,62 +15,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/perlon</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/z-perlon.jpg</image:loc>
-        <image:title>blue perlon watch strap</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
-        <image:title>Clockwork Synergy logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
-        <image:title>CNS &amp; Watch Bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
-        <image:title>Crown &amp; Buckle logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
-        <image:title>DaLuca Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
-        <image:title>hodinkee shop logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-        <image:title>holbens bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
-        <image:title>Singular Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
-        <image:title>StrapsCo logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
-        <image:title>Watchbandit logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-        <image:title>WatchObsession UK logo</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/for-businesses</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -92,7 +38,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/privacy</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -102,7 +48,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/saffiano</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -142,6 +88,10 @@
         <image:title>SMC Strap Mill Canada logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
         <image:title>Veblenist logo</image:title>
       </image:image>
@@ -151,8 +101,128 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/metal</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:title>B &amp; R Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+        <image:title>Bulang and Sons logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+        <image:title>esprit nato logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
+        <image:title>Forstner Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+        <image:title>holbens bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+        <image:title>Monstraps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+        <image:title>North Street Watch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
+        <image:title>Singular Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+        <image:title>Strapcode logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
+        <image:title>StrapHabit logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+        <image:title>StrapsCo logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/timefactors.png</image:loc>
+        <image:title>Timefactors logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
+        <image:title>Uncle Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+        <image:title>Windup Watch Shop logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+        <image:title>WatchGecko logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
+        <image:title>ZULUDIVER logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/pueblo</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:title>B &amp; R Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+        <image:title>Delugs logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>fin watch straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
+        <image:title>Has No Bounds logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+        <image:title>Mill Handmade logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+        <image:title>Strapatelier logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:title>The Strap Tailor logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/ostrich</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -241,8 +311,62 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/perlon</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/z-perlon.jpg</image:loc>
+        <image:title>blue perlon watch strap</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
+        <image:title>Clockwork Synergy logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
+        <image:title>CNS &amp; Watch Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
+        <image:title>Crown &amp; Buckle logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
+        <image:title>DaLuca Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+        <image:title>hodinkee shop logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+        <image:title>holbens bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
+        <image:title>Singular Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+        <image:title>StrapsCo logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
+        <image:title>Watchbandit logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/deals</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -280,6 +404,10 @@
       <image:image>
         <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
         <image:title>dangerous9straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>Fin Watch Straps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
@@ -355,8 +483,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/buttero</loc>
-    <lastmod>2023-04-01</lastmod>
+    <loc>https://www.straphunter.com/deployant</loc>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -364,88 +492,12 @@
         <image:title>strap hunter logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-        <image:title>Delugs logo</image:title>
+        <image:loc>https://www.straphunter.com/images/artem.png</image:loc>
+        <image:title>Artem Straps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-        <image:title>fin watch straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-        <image:title>Genteel Handmade logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
-        <image:title>Has No Bounds logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
-        <image:title>Mill Handmade logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-        <image:title>Strapatelier logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-        <image:title>The Strap Tailor logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-        <image:title>Velle Alexander logo</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/pueblo</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-        <image:title>B &amp; R Bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-        <image:title>Delugs logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-        <image:title>fin watch straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
-        <image:title>Has No Bounds logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
-        <image:title>Mill Handmade logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-        <image:title>Strapatelier logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-        <image:title>The Strap Tailor logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-        <image:title>WatchObsession UK logo</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/metal</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
+        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
+        <image:title>Atelier del Sur logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
@@ -456,16 +508,40 @@
         <image:title>Bulang and Sons logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+        <image:title>Delugs logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
         <image:title>esprit nato logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
-        <image:title>Forstner Bands logo</image:title>
+        <image:loc>https://www.straphunter.com/images/everest.png</image:loc>
+        <image:title>everest bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>fin watch straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+        <image:title>Genteel Handmade logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+        <image:title>Gunny Straps Official logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
         <image:title>holbens bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jacobs.png</image:loc>
+        <image:title>Jacobstraps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+        <image:title>Mill Handmade logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
@@ -476,32 +552,40 @@
         <image:title>North Street Watch Straps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
-        <image:title>Singular Straps logo</image:title>
+        <image:loc>https://www.straphunter.com/images/rubberb.png</image:loc>
+        <image:title>Rubber B Watch Bands &amp; Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
+        <image:title>SMC Strap Mill Canada logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
         <image:title>Strapcode logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
-        <image:title>StrapHabit logo</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
         <image:title>StrapsCo logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/timefactors.png</image:loc>
-        <image:title>Timefactors logo</image:title>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+        <image:title>TC Straps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
-        <image:title>Uncle Straps logo</image:title>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:title>The Strap Tailor logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
-        <image:title>Windup Watch Shop logo</image:title>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
+        <image:title>Two Stitch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+        <image:title>Velle Alexander logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
@@ -512,13 +596,17 @@
         <image:title>WatchObsession UK logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/ziczac.png</image:loc>
+        <image:title>Zic Zac Leather logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
         <image:title>ZULUDIVER logo</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/handmade</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -622,6 +710,10 @@
         <image:title>PhenomeNato Straps logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+        <image:title>postale straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/rem.png</image:loc>
         <image:title>REM Straps logo</image:title>
       </image:image>
@@ -644,6 +736,10 @@
       <image:image>
         <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
         <image:title>The Strap Tailor logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
@@ -671,8 +767,350 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/buttero</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+        <image:title>Delugs logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>fin watch straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+        <image:title>Genteel Handmade logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
+        <image:title>Has No Bounds logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+        <image:title>Mill Handmade logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+        <image:title>Strapatelier logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:title>The Strap Tailor logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+        <image:title>Velle Alexander logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/pigskin</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/pigskin.jpg</image:loc>
+        <image:title>pigskin watch straps</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+        <image:title>Bulang and Sons logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+        <image:title>holbens bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:title>The Strap Tailor logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/calfskin</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/calfskin-watch-strap.jpeg</image:loc>
+        <image:title>calfskin leather watch strap</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/aaron-bespoke-2.png</image:loc>
+        <image:title>Aaron Bespoke Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/artisanstraps.png</image:loc>
+        <image:title>Artisan Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
+        <image:title>Atelier del Sur logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:title>B &amp; R Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/band-and-bezel.png</image:loc>
+        <image:title>Band &amp; Bezel logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/barkandjack.png</image:loc>
+        <image:title>Bark and Jack logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
+        <image:title>BARTON Watch Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
+        <image:title>BluShark straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+        <image:title>Bulang and Sons logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cincistrapco.png</image:loc>
+        <image:title>Cincy Strap Company logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
+        <image:title>Clockwork Synergy logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
+        <image:title>CNS &amp; Watch Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/colareb.png</image:loc>
+        <image:title>Colareb logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
+        <image:title>Crown &amp; Buckle logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
+        <image:title>DaLuca Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
+        <image:title>Dangerous9straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+        <image:title>Delugs logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/dstrap.png</image:loc>
+        <image:title>Dstrap logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
+        <image:title>ES Handcrafted logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+        <image:title>esprit nato logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/everest.png</image:loc>
+        <image:title>everest bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>fin watch straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+        <image:title>Genteel Handmade logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/glc.png</image:loc>
+        <image:title>GLC Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+        <image:title>Gunny Straps Official logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
+        <image:title>Has No Bounds logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
+        <image:title>Haveston logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+        <image:title>hodinkee shop logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+        <image:title>holbens bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jacobs.png</image:loc>
+        <image:title>Jacobstraps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+        <image:title>Jean Rousseau logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/keepiece.png</image:loc>
+        <image:title>Keepiece logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
+        <image:title>Lic Leather logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/luff.png</image:loc>
+        <image:title>LuffWatchStrap logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/lugs.png</image:loc>
+        <image:title>LUGS straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+        <image:title>Mill Handmade logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mks.png</image:loc>
+        <image:title>MKS Nato Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/molequin.png</image:loc>
+        <image:title>Molequin Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+        <image:title>Monstraps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/nerobiglia.png</image:loc>
+        <image:title>Nero Biglia logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+        <image:title>North Street Watch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/rem.png</image:loc>
+        <image:title>REM Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
+        <image:title>Singular Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
+        <image:title>SMC Strap Mill Canada logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/soturi.png</image:loc>
+        <image:title>Soturi Design logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+        <image:title>Strapatelier logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+        <image:title>Strapcode logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/straposphere.png</image:loc>
+        <image:title>Straposphere logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+        <image:title>StrapsCo logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+        <image:title>TC Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:title>The Strap Tailor logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/timefactors.png</image:loc>
+        <image:title>Timefactors logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
+        <image:title>Two Stitch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
+        <image:title>VARIO straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
+        <image:title>Veblenist logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+        <image:title>Velle Alexander logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+        <image:title>Windup Watch Shop logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
+        <image:title>Watchbandit logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+        <image:title>WatchGecko logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/wotancraft.png</image:loc>
+        <image:title>Wotancraft logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/ziczac.png</image:loc>
+        <image:title>Zic Zac Leather logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
+        <image:title>ZULUDIVER logo</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/mesh</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -725,8 +1163,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/deployant</loc>
-    <lastmod>2023-04-01</lastmod>
+    <loc>https://www.straphunter.com/sailcloth</loc>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -738,92 +1176,40 @@
         <image:title>Artem Straps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
-        <image:title>Atelier del Sur logo</image:title>
+        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
+        <image:title>BARTON Watch Bands logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-        <image:title>B &amp; R Bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
-        <image:title>Bulang and Sons logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-        <image:title>Delugs logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
-        <image:title>esprit nato logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/everest.png</image:loc>
-        <image:title>everest bands logo</image:title>
+        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
+        <image:title>Clockwork Synergy logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
         <image:title>fin watch straps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-        <image:title>Genteel Handmade logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
-        <image:title>Gunny Straps Official logo</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
         <image:title>holbens bands logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/jacobs.png</image:loc>
-        <image:title>Jacobstraps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
-        <image:title>Mill Handmade logo</image:title>
+        <image:loc>https://www.straphunter.com/images/mks.png</image:loc>
+        <image:title>MKS Nato Straps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
         <image:title>Monstraps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
-        <image:title>North Street Watch Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/rubberb.png</image:loc>
-        <image:title>Rubber B Watch Bands &amp; Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
-        <image:title>SMC Strap Mill Canada logo</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
         <image:title>Strapcode logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
-        <image:title>StrapsCo logo</image:title>
+        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
+        <image:title>StrapHabit logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
-        <image:title>TC Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-        <image:title>The Strap Tailor logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
-        <image:title>Two Stitch Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-        <image:title>Velle Alexander logo</image:title>
+        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
+        <image:title>Watchbandit logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
@@ -834,8 +1220,266 @@
         <image:title>WatchObsession UK logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/ziczac.png</image:loc>
-        <image:title>Zic Zac Leather logo</image:title>
+        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
+        <image:title>ZULUDIVER logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/ribbed-nato</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/z-ribbed-nato.jpeg</image:loc>
+        <image:title>mustard yellow ribbed nato strap</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/band-and-bezel.png</image:loc>
+        <image:title>Band &amp; Bezel logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/barkandjack.png</image:loc>
+        <image:title>Bark and Jack logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
+        <image:title>BluShark straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
+        <image:title>CNS &amp; Watch Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+        <image:title>esprit nato logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:title>The Strap Tailor logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
+        <image:title>Watchbandit logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/bund</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
+        <image:title>CNS &amp; Watch Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/dstrap.png</image:loc>
+        <image:title>Dstrap logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>fin watch straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+        <image:title>Gunny Straps Official logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+        <image:title>hodinkee shop logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+        <image:title>holbens bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+        <image:title>North Street Watch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
+        <image:title>Rover Haven Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/rubberb.png</image:loc>
+        <image:title>Rubber B Watch Bands &amp; Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+        <image:title>Strapcode logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:title>The Strap Tailor logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/timefactors.png</image:loc>
+        <image:title>Timefactors logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
+        <image:title>Two Stitch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
+        <image:title>VARIO straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
+        <image:title>Veblenist logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+        <image:title>Velle Alexander logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/leather-nato</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/z-leather-nato.jpeg</image:loc>
+        <image:title>leather nato watch strap</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
+        <image:title>Atelier del Sur logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:title>B &amp; R Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
+        <image:title>BARTON Watch Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+        <image:title>Bulang and Sons logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
+        <image:title>Clockwork Synergy logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
+        <image:title>CNS &amp; Watch Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/colareb.png</image:loc>
+        <image:title>Colareb logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
+        <image:title>Crown &amp; Buckle logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
+        <image:title>DaLuca Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+        <image:title>esprit nato logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>fin watch straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/glc.png</image:loc>
+        <image:title>GLC Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+        <image:title>Gunny Straps Official logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
+        <image:title>Haveston logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+        <image:title>hodinkee shop logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+        <image:title>holbens bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+        <image:title>Jean Rousseau logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+        <image:title>North Street Watch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
+        <image:title>Rover Haven Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
+        <image:title>Singular Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/soturi.png</image:loc>
+        <image:title>Soturi Design logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+        <image:title>Strapatelier logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+        <image:title>Strapcode logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+        <image:title>StrapsCo logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
+        <image:title>Two Stitch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
+        <image:title>VARIO straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
+        <image:title>Veblenist logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+        <image:title>WatchGecko logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
@@ -844,7 +1488,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/nato</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -980,6 +1624,10 @@
         <image:title>PhenomeNato Straps logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+        <image:title>postale straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
         <image:title>Rover Haven Straps logo</image:title>
       </image:image>
@@ -1022,6 +1670,10 @@
       <image:image>
         <image:loc>https://www.straphunter.com/images/timefactors.png</image:loc>
         <image:title>Timefactors logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
@@ -1073,8 +1725,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/sailcloth</loc>
-    <lastmod>2023-04-01</lastmod>
+    <loc>https://www.straphunter.com/rubber-nato</loc>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1082,178 +1734,24 @@
         <image:title>strap hunter logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/artem.png</image:loc>
-        <image:title>Artem Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
-        <image:title>BARTON Watch Bands logo</image:title>
+        <image:loc>https://www.straphunter.com/images/rubber-nato.jpeg</image:loc>
+        <image:title>rubber nato watch strap</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
         <image:title>Clockwork Synergy logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-        <image:title>fin watch straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-        <image:title>holbens bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mks.png</image:loc>
-        <image:title>MKS Nato Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
-        <image:title>Monstraps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-        <image:title>Strapcode logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
-        <image:title>StrapHabit logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
-        <image:title>Watchbandit logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
-        <image:title>WatchGecko logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-        <image:title>WatchObsession UK logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
-        <image:title>ZULUDIVER logo</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/leather-nato</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/z-leather-nato.jpeg</image:loc>
-        <image:title>leather nato watch strap</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
-        <image:title>Atelier del Sur logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-        <image:title>B &amp; R Bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
-        <image:title>BARTON Watch Bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
-        <image:title>Bulang and Sons logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
-        <image:title>Clockwork Synergy logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
-        <image:title>CNS &amp; Watch Bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/colareb.png</image:loc>
-        <image:title>Colareb logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
-        <image:title>Crown &amp; Buckle logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
-        <image:title>DaLuca Straps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
         <image:title>esprit nato logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-        <image:title>fin watch straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/glc.png</image:loc>
-        <image:title>GLC Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
-        <image:title>Gunny Straps Official logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
-        <image:title>Haveston logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
-        <image:title>hodinkee shop logo</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
         <image:title>holbens bands logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
-        <image:title>Jean Rousseau logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
-        <image:title>North Street Watch Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
-        <image:title>Rover Haven Straps logo</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
         <image:title>Singular Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/soturi.png</image:loc>
-        <image:title>Soturi Design logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-        <image:title>Strapatelier logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-        <image:title>Strapcode logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
-        <image:title>StrapsCo logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
-        <image:title>Two Stitch Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
-        <image:title>VARIO straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
-        <image:title>Veblenist logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
@@ -1262,6 +1760,10 @@
       <image:image>
         <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
         <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellowdog.png</image:loc>
+        <image:title>yellowdogwatchstraps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
@@ -1270,7 +1772,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/single-pass</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1354,6 +1856,10 @@
         <image:title>North Street Watch Straps logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+        <image:title>postale straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
         <image:title>Rover Haven Straps logo</image:title>
       </image:image>
@@ -1403,8 +1909,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/bund</loc>
-    <lastmod>2023-04-01</lastmod>
+    <loc>https://www.straphunter.com/cordura</loc>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1412,102 +1918,56 @@
         <image:title>strap hunter logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
-        <image:title>CNS &amp; Watch Bands logo</image:title>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:title>B &amp; R Bands logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/dstrap.png</image:loc>
-        <image:title>Dstrap logo</image:title>
+        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
+        <image:title>BARTON Watch Bands logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-        <image:title>fin watch straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
-        <image:title>Gunny Straps Official logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
-        <image:title>hodinkee shop logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-        <image:title>holbens bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
-        <image:title>North Street Watch Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
-        <image:title>Rover Haven Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/rubberb.png</image:loc>
-        <image:title>Rubber B Watch Bands &amp; Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-        <image:title>Strapcode logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-        <image:title>The Strap Tailor logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/timefactors.png</image:loc>
-        <image:title>Timefactors logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
-        <image:title>Two Stitch Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
-        <image:title>VARIO straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
-        <image:title>Veblenist logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-        <image:title>Velle Alexander logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-        <image:title>WatchObsession UK logo</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/rubber-nato</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/rubber-nato.jpeg</image:loc>
-        <image:title>rubber nato watch strap</image:title>
+        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
+        <image:title>BluShark straps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
         <image:title>Clockwork Synergy logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
-        <image:title>esprit nato logo</image:title>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>fin watch straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+        <image:title>Genteel Handmade logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
         <image:title>holbens bands logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
-        <image:title>Singular Straps logo</image:title>
+        <image:loc>https://www.straphunter.com/images/jacobs.png</image:loc>
+        <image:title>Jacobstraps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+        <image:title>Jean Rousseau logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/soturi.png</image:loc>
+        <image:title>Soturi Design logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+        <image:title>Strapcode logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+        <image:title>TC Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
+        <image:title>VARIO straps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
@@ -1518,17 +1978,13 @@
         <image:title>WatchObsession UK logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/yellowdog.png</image:loc>
-        <image:title>yellowdogwatchstraps logo</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
         <image:title>ZULUDIVER logo</image:title>
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/ribbed-nato</loc>
-    <lastmod>2023-04-01</lastmod>
+    <loc>https://www.straphunter.com/lizard</loc>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1536,41 +1992,57 @@
         <image:title>strap hunter logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/z-ribbed-nato.jpeg</image:loc>
-        <image:title>mustard yellow ribbed nato strap</image:title>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+        <image:title>Bulang and Sons logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/band-and-bezel.png</image:loc>
-        <image:title>Band &amp; Bezel logo</image:title>
+        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
+        <image:title>DaLuca Straps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/barkandjack.png</image:loc>
-        <image:title>Bark and Jack logo</image:title>
+        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
+        <image:title>Dangerous9straps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
-        <image:title>BluShark straps logo</image:title>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>fin watch straps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
-        <image:title>CNS &amp; Watch Bands logo</image:title>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+        <image:title>Gunny Straps Official logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
-        <image:title>esprit nato logo</image:title>
+        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+        <image:title>Jean Rousseau logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-        <image:title>The Strap Tailor logo</image:title>
+        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
+        <image:title>Lic Leather logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
-        <image:title>Watchbandit logo</image:title>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+        <image:title>Monstraps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+        <image:title>TC Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/wotancraft.png</image:loc>
+        <image:title>Wotancraft logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/ziczac.png</image:loc>
+        <image:title>Zic Zac Leather logo</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/zulu</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1647,8 +2119,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/lizard</loc>
-    <lastmod>2023-04-01</lastmod>
+    <loc>https://www.straphunter.com/epsom</loc>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1656,57 +2128,65 @@
         <image:title>strap hunter logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
-        <image:title>Bulang and Sons logo</image:title>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:title>B &amp; R Bands logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
-        <image:title>DaLuca Straps logo</image:title>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+        <image:title>Delugs logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
-        <image:title>Dangerous9straps logo</image:title>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+        <image:title>Genteel Handmade logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-        <image:title>fin watch straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
-        <image:title>Gunny Straps Official logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
-        <image:title>Jean Rousseau logo</image:title>
+        <image:loc>https://www.straphunter.com/images/keepiece.png</image:loc>
+        <image:title>Keepiece logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
         <image:title>Lic Leather logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/luff.png</image:loc>
+        <image:title>LuffWatchStrap logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+        <image:title>Mill Handmade logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
         <image:title>Monstraps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
-        <image:title>TC Straps logo</image:title>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+        <image:title>Strapatelier logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-        <image:title>WatchObsession UK logo</image:title>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:title>The Strap Tailor logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/wotancraft.png</image:loc>
-        <image:title>Wotancraft logo</image:title>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/ziczac.png</image:loc>
-        <image:title>Zic Zac Leather logo</image:title>
+        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
+        <image:title>VARIO straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+        <image:title>Velle Alexander logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+        <image:title>WatchGecko logo</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/leather</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1938,6 +2418,10 @@
         <image:title>Timefactors logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
         <image:title>Two Stitch Straps logo</image:title>
       </image:image>
@@ -1983,154 +2467,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/cordura</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-        <image:title>B &amp; R Bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
-        <image:title>BARTON Watch Bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
-        <image:title>BluShark straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
-        <image:title>Clockwork Synergy logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-        <image:title>fin watch straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-        <image:title>Genteel Handmade logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-        <image:title>holbens bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/jacobs.png</image:loc>
-        <image:title>Jacobstraps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
-        <image:title>Jean Rousseau logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/soturi.png</image:loc>
-        <image:title>Soturi Design logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-        <image:title>Strapcode logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
-        <image:title>TC Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
-        <image:title>VARIO straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
-        <image:title>WatchGecko logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-        <image:title>WatchObsession UK logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
-        <image:title>ZULUDIVER logo</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/contact</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/epsom</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-        <image:title>B &amp; R Bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-        <image:title>Delugs logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-        <image:title>Genteel Handmade logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/keepiece.png</image:loc>
-        <image:title>Keepiece logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
-        <image:title>Lic Leather logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/luff.png</image:loc>
-        <image:title>LuffWatchStrap logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
-        <image:title>Mill Handmade logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
-        <image:title>Monstraps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-        <image:title>Strapatelier logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-        <image:title>The Strap Tailor logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
-        <image:title>VARIO straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-        <image:title>Velle Alexander logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
-        <image:title>WatchGecko logo</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/rubber</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -2275,8 +2613,126 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/contact</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/about</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/z-nato.jpg</image:loc>
+        <image:title>nato watch strap</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/alligator</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/aaron-bespoke-2.png</image:loc>
+        <image:title>Aaron Bespoke Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/artisanstraps.png</image:loc>
+        <image:title>Artisan Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+        <image:title>Bulang and Sons logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
+        <image:title>DaLuca Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+        <image:title>Delugs logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+        <image:title>esprit nato logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+        <image:title>fin watch straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+        <image:title>Genteel Handmade logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+        <image:title>hodinkee shop logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jacobs.png</image:loc>
+        <image:title>Jacobstraps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+        <image:title>Jean Rousseau logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
+        <image:title>Lic Leather logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/molequin.png</image:loc>
+        <image:title>Molequin Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+        <image:title>Monstraps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+        <image:title>Strapcode logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+        <image:title>TC Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
+        <image:title>Veblenist logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+        <image:title>Velle Alexander logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/all</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -2488,6 +2944,10 @@
         <image:title>PhenomeNato Straps logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+        <image:title>postale straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/rem.png</image:loc>
         <image:title>REM Straps logo</image:title>
       </image:image>
@@ -2542,6 +3002,10 @@
       <image:image>
         <image:loc>https://www.straphunter.com/images/timefactors.png</image:loc>
         <image:title>Timefactors logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
@@ -2605,112 +3069,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/about</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
-        <image:title></image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/z-nato.jpg</image:loc>
-        <image:title>nato watch strap</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/alligator</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/aaron-bespoke-2.png</image:loc>
-        <image:title>Aaron Bespoke Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/artisanstraps.png</image:loc>
-        <image:title>Artisan Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
-        <image:title>Bulang and Sons logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
-        <image:title>DaLuca Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-        <image:title>Delugs logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
-        <image:title>esprit nato logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-        <image:title>fin watch straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-        <image:title>Genteel Handmade logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
-        <image:title>hodinkee shop logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/jacobs.png</image:loc>
-        <image:title>Jacobstraps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
-        <image:title>Jean Rousseau logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
-        <image:title>Lic Leather logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/molequin.png</image:loc>
-        <image:title>Molequin Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
-        <image:title>Monstraps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-        <image:title>Strapcode logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
-        <image:title>TC Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
-        <image:title>Veblenist logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-        <image:title>Velle Alexander logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-        <image:title>WatchObsession UK logo</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/shell-cordovan</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -2810,6 +3170,10 @@
         <image:title>The Strap Tailor logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
         <image:title>Two Stitch Straps logo</image:title>
       </image:image>
@@ -2832,7 +3196,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/goatskin</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -2880,13 +3244,79 @@
         <image:title>The Strap Tailor logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
         <image:title>WatchObsession UK logo</image:title>
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/beads-of-rice</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:title>B &amp; R Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+        <image:title>Bulang and Sons logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+        <image:title>esprit nato logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
+        <image:title>Forstner Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+        <image:title>North Street Watch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+        <image:title>Strapcode logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
+        <image:title>StrapHabit logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+        <image:title>StrapsCo logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
+        <image:title>Uncle Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+        <image:title>Windup Watch Shop logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+        <image:title>WatchGecko logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
+        <image:title>ZULUDIVER logo</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/suede</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -2990,6 +3420,10 @@
         <image:title>The Strap Tailor logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
         <image:title>Two Stitch Straps logo</image:title>
       </image:image>
@@ -3019,8 +3453,18 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/beads-of-rice</loc>
-    <lastmod>2023-04-01</lastmod>
+    <loc>https://www.straphunter.com/terms</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/canvas-nato</loc>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3028,24 +3472,32 @@
         <image:title>strap hunter logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-        <image:title>B &amp; R Bands logo</image:title>
+        <image:loc>https://www.straphunter.com/images/z-canvas-nato.jpeg</image:loc>
+        <image:title>grey canvas nato watch strap</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
-        <image:title>Bulang and Sons logo</image:title>
+        <image:loc>https://www.straphunter.com/images/gasgasbones.png</image:loc>
+        <image:title>GasGasBones logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
-        <image:title>esprit nato logo</image:title>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+        <image:title>Gunny Straps Official logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
-        <image:title>Forstner Bands logo</image:title>
+        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
+        <image:title>Haveston logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+        <image:title>holbens bands logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/north.png</image:loc>
         <image:title>North Street Watch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+        <image:title>postale straps logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
@@ -3056,16 +3508,8 @@
         <image:title>StrapHabit logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
-        <image:title>StrapsCo logo</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
         <image:title>Uncle Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
-        <image:title>Windup Watch Shop logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
@@ -3076,13 +3520,17 @@
         <image:title>WatchObsession UK logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+        <image:title>Windup Watch Shop logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
         <image:title>ZULUDIVER logo</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/custom</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3182,6 +3630,10 @@
         <image:title>Nero Biglia logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+        <image:title>postale straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/rem.png</image:loc>
         <image:title>REM Straps logo</image:title>
       </image:image>
@@ -3206,6 +3658,10 @@
         <image:title>The Strap Tailor logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
         <image:title>Two Stitch Straps logo</image:title>
       </image:image>
@@ -3223,8 +3679,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/terms</loc>
-    <lastmod>2023-04-01</lastmod>
+    <loc>https://www.straphunter.com/disclaimer</loc>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3233,8 +3689,22 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/genteel-handmade</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+        <image:title>Genteel Handmade logo</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/crocodile</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3270,6 +3740,10 @@
         <image:title>TC Straps logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
         <image:title>Velle Alexander logo</image:title>
       </image:image>
@@ -3283,70 +3757,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/canvas-nato</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/z-canvas-nato.jpeg</image:loc>
-        <image:title>grey canvas nato watch strap</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gasgasbones.png</image:loc>
-        <image:title>GasGasBones logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
-        <image:title>Gunny Straps Official logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
-        <image:title>Haveston logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-        <image:title>holbens bands logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
-        <image:title>North Street Watch Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-        <image:title>Strapcode logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
-        <image:title>StrapHabit logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
-        <image:title>Uncle Straps logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
-        <image:title>WatchGecko logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-        <image:title>WatchObsession UK logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
-        <image:title>Windup Watch Shop logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
-        <image:title>ZULUDIVER logo</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/elastic</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3400,7 +3812,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/canvas</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3492,6 +3904,10 @@
         <image:title>Monstraps logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+        <image:title>postale straps logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
         <image:title>Singular Straps logo</image:title>
       </image:image>
@@ -3553,32 +3969,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/disclaimer</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/genteel-handmade</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-        <image:title>Genteel Handmade logo</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/blushark-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3592,7 +3984,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/band-and-bezel</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3642,7 +4034,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/keepiece</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3655,22 +4047,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/veblenist</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
-        <image:title>Veblenist logo</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/two-stitch-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3719,8 +4097,22 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/veblenist</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
+        <image:title>Veblenist logo</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/zulu-alpha-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3734,7 +4126,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/molequin</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3748,7 +4140,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/fin-watch-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3790,7 +4182,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/cns-watch-bands</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3804,7 +4196,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/uncle-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3846,7 +4238,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/the-strap-tailor</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3888,7 +4280,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/gunny-straps-official</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3930,7 +4322,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/forstner-bands</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3944,7 +4336,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/1787-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3958,7 +4350,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/north-street-watch-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3972,7 +4364,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/vecchio-times</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3986,7 +4378,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/nick-mankey-designs</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3999,22 +4391,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/watch-obsession</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-        <image:title>Watch Obsession logo</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/watchbandit</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4055,8 +4433,22 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/watch-obsession</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>Watch Obsession logo</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/hodinkee-shop</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4070,7 +4462,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/nero-biglia</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4112,7 +4504,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/crafter-blue</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4126,7 +4518,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/af0210-strap</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4140,7 +4532,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/mill-handmade</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4181,8 +4573,58 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/torre-straps</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+        <image:title>Torre Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/company-torre.jpg</image:loc>
+        <image:title>Torre Straps leather watch strap</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-04.jpg</image:loc>
+        <image:title>Torre Straps tan leather watch strap</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-01.jpg</image:loc>
+        <image:title>Torre Straps leather watch straps</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-07.jpg</image:loc>
+        <image:title>Torre Straps leather watch straps</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-03.jpg</image:loc>
+        <image:title>Torre Straps leather watch straps on vintage watches</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-06.jpg</image:loc>
+        <image:title>Torre Straps leather watch straps</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-02.jpg</image:loc>
+        <image:title>Torre Straps tan leather watch strap on a vintage watch</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-08.jpg</image:loc>
+        <image:title>Torre Straps leather watch strap</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-05.jpg</image:loc>
+        <image:title>Torre Straps bund watch strap</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/bulang-and-sons</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4196,7 +4638,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/glc-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4210,7 +4652,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/timefactors</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4252,7 +4694,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/rem-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4266,7 +4708,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/daluca-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4308,7 +4750,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/es-handcrafted</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4322,7 +4764,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/colareb</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4364,7 +4806,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/zuludiver</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4398,7 +4840,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/has-no-bounds</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4412,7 +4854,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/rubber-b</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4462,7 +4904,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/clockwork-synergy</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4476,7 +4918,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/gasgasbones</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4489,8 +4931,50 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/postale</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+        <image:title>Postale Watch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/company-postale.jpg</image:loc>
+        <image:title>Postale canvas two piece watch strap</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale-01.jpg</image:loc>
+        <image:title>Postale canvas straps</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale-03.jpg</image:loc>
+        <image:title>Postale canvas strap in biege color</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale-04.jpg</image:loc>
+        <image:title>Postale canvas strap in yellow color</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale-08.jpg</image:loc>
+        <image:title>Postale canvas straps</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale-05.jpg</image:loc>
+        <image:title>Postale canvas strap in grey color</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale-06.jpg</image:loc>
+        <image:title>Postale canvas straps</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/dstrap</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4504,7 +4988,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/cincy-strap-company</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4518,7 +5002,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/tc-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4532,7 +5016,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/velle-alexander</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4574,7 +5058,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/windup-watch-shop</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4588,7 +5072,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/barton-watch-bands</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4602,7 +5086,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/aaron-bespoke</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4616,7 +5100,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/singular-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4666,7 +5150,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/holbens</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4708,7 +5192,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/strapcode</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4722,7 +5206,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/dangerous9straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4736,7 +5220,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/jean-rousseau</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4750,7 +5234,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/br-bands</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4764,7 +5248,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/soturi-design</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4806,7 +5290,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/haveston</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4840,7 +5324,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/lic-leather</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4854,7 +5338,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/crown-and-buckle</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4888,7 +5372,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/watchgecko</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4922,7 +5406,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/wotancraft</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4964,7 +5448,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/rover-haven-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5006,7 +5490,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/luff-watch-strap</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5020,7 +5504,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/atelier-del-sur</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5034,7 +5518,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/everest-bands</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5048,7 +5532,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/esprit-nato</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5098,7 +5582,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/artem-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5112,7 +5596,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/smc-strap-mill-canada</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5154,7 +5638,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/zic-zac-leather</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5196,7 +5680,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/monstraps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5210,7 +5694,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/strapsco</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5224,7 +5708,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/erikas-originals</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5238,7 +5722,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/jacob-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5252,7 +5736,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/lugs-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5266,7 +5750,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/yellow-dog-watch-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5279,22 +5763,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/strapatelier</loc>
-    <lastmod>2023-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-        <image:title>strap hunter logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-        <image:title>Strapatelier logo</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/mks-nato-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5307,8 +5777,22 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/strapatelier</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+        <image:title>Strapatelier logo</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/straposphere</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5322,7 +5806,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/asketica</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5336,7 +5820,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/phenomenato-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5370,7 +5854,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/vario-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5384,7 +5868,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/delugs</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5398,7 +5882,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/straphabit</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5412,7 +5896,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/bark-and-jack</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5454,7 +5938,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/artisan-straps</loc>
-    <lastmod>2023-04-01</lastmod>
+    <lastmod>2023-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5492,6 +5976,196 @@
       <image:image>
         <image:loc>https://www.straphunter.com/images/artisanstraps-04.jpg</image:loc>
         <image:title>Grand Seiko on leather watch strap by Artisan Straps</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/uk</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/af0210straps.png</image:loc>
+        <image:title>A.F.0210. Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/barkandjack.png</image:loc>
+        <image:title>Bark and Jack logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gasgasbones.png</image:loc>
+        <image:title>GasGasBones logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
+        <image:title>Haveston logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mks.png</image:loc>
+        <image:title>MKS Nato Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:title>The Strap Tailor logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/timefactors.png</image:loc>
+        <image:title>Timefactors logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:title>WatchObsession UK logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+        <image:title>WatchGecko logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellowdog.png</image:loc>
+        <image:title>yellowdogwatchstraps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zulualphastraps.png</image:loc>
+        <image:title>Zulu Alpha Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
+        <image:title>ZULUDIVER logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/us</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:title>B &amp; R Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
+        <image:title>BARTON Watch Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
+        <image:title>BluShark straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cincistrapco.png</image:loc>
+        <image:title>Cincy Strap Company logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
+        <image:title>Clockwork Synergy logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
+        <image:title>Crown &amp; Buckle logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
+        <image:title>DaLuca Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/everest.png</image:loc>
+        <image:title>everest bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
+        <image:title>Forstner Bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+        <image:title>hodinkee shop logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+        <image:title>holbens bands logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/keepiece.png</image:loc>
+        <image:title>Keepiece logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/nick-mankey.png</image:loc>
+        <image:title>Nick Mankey Designs logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+        <image:title>North Street Watch Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
+        <image:title>Rover Haven Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/soturi.png</image:loc>
+        <image:title>Soturi Design logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
+        <image:title>StrapHabit logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+        <image:title>StrapsCo logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+        <image:title>TC Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
+        <image:title>Uncle Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
+        <image:title>Veblenist logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+        <image:title>Velle Alexander logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+        <image:title>Windup Watch Shop logo</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/australia</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:title>strap hunter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/artem.png</image:loc>
+        <image:title>Artem Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/artisanstraps.png</image:loc>
+        <image:title>Artisan Straps logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
+        <image:title>ES Handcrafted logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+        <image:title>Mill Handmade logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/vecchio.png</image:loc>
+        <image:title>Vecchio Times logo</image:title>
       </image:image>
   </url>
 </urlset>
