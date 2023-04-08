@@ -751,6 +751,12 @@
     <priority>0.8</priority>
   </url> 
   <url>
+    <loc>https://www.straphunter.com/pigskin</loc>
+    <lastmod>2023-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>   
+  <url>
     <loc>https://www.straphunter.com/torre-straps</loc>
     <lastmod>2023-04-01</lastmod>
     <changefreq>daily</changefreq>
