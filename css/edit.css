@@ -481,8 +481,8 @@ label {
 table {
 	text-align: left;
 	margin: 2rem 0;
-  font-size: 14px;
-  width:100%;
+	font-size: 14px;
+	width:100%;
 }
 
 tr, td, th {
@@ -1198,6 +1198,7 @@ span.category-jump a {
 table.review-score {
 	font-size: 16px;
 	margin: 2rem 0;
+	width: auto;
 }
 
 
