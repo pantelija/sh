@@ -282,13 +282,6 @@ a.showcase-link:hover {
 
 
 
-
-
-
-
-
-
-
 @media only screen and (max-width: 949px) {
 
 .company-gallery-container {
@@ -736,6 +729,18 @@ ul.plain {
 }
 
 ul.plain li {
+  line-height: 1.7;
+  color: #333; 
+}
+
+
+
+ol.plain {
+  margin-top: 1rem;
+  padding-left: 30px;
+}
+
+ol.plain li {
   line-height: 1.7;
   color: #333; 
 }
@@ -1297,3 +1302,39 @@ ul.lista.nolike li:before {
     content: url(../images/red.png);
     display: inline-block;
 }
+
+
+
+    .knjiga {
+        display: flex;
+        flex-direction: row;
+        margin: 5rem 0;
+    }
+    .omot {
+        padding-right: 2rem;
+    }
+    .omot img {
+        width: 160px;
+    }
+    .opis h3 {
+        margin: 0 0 0.6rem 0;
+        font-size: 1.6rem;
+        text-transform: capitalize;
+    }
+    .opis a:first-child {
+        margin-right: 1rem;
+    }
+    .pisac {
+        color: #777;
+        font-style: italic;
+        margin-bottom: 1rem;
+    }
+    @media (max-width: 550px) {
+        .omot img {
+            width: 120px;
+            margin-bottom: 1rem;
+        }
+        .knjiga {
+            flex-direction: column;
+        }
+    }
