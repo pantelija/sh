@@ -1546,3 +1546,8 @@ background: #F5F7FA;
 .score-archive-wrapper p.f14 {
 	line-height: 50px;
 }
+
+
+.grey-border {
+	border: 1px solid #f2f2f2;
+}
