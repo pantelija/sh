@@ -2598,3 +2598,28 @@ progress::-webkit-progress-bar {
 progress::-webkit-progress-value {
   background-color: #1377af;
 }
+
+.insta-tree {
+	text-align: center;
+}
+
+a.insta-button {
+	display: block;
+	margin: 1.5rem 2rem;
+	padding: 1rem;
+	text-decoration: none;
+	font-weight: bold;
+	color: #333;
+	background: #fff;
+	
+}
+
+a.insta-button:hover {
+	opacity:0.6;
+}
+
+.insta-h3 {
+	font-size: 2rem;
+	margin-bottom: 2rem;
+}
+
