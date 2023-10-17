@@ -1037,5 +1037,11 @@
     <lastmod>2023-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-  </url>  
+  </url> 
+  <url>
+    <loc>https://www.straphunter.com/b014</loc>
+    <lastmod>2023-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>   
 </urlset>
