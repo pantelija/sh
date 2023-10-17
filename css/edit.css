@@ -1560,3 +1560,27 @@ background: #F5F7FA;
 .grey-border {
 	border: 1px solid #f2f2f2;
 }
+
+
+
+@media (min-width: 851px) {
+
+	.resp-table {
+		table-layout : fixed;
+		width: 800px;
+		margin-left: -120px;
+	}
+}
+
+@media (max-width: 850px) {
+
+	.resp-table {
+		display: block;
+		overflow-x: auto;
+		white-space: nowrap;
+		table-layout : fixed;
+		width: 100%;
+
+	}
+
+}
