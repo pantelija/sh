@@ -679,6 +679,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.straphunter.com/b015</loc>
+    <lastmod>2023-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>  
+  <url>
     <loc>https://www.straphunter.com/b012</loc>
     <lastmod>2023-10-19</lastmod>
     <changefreq>daily</changefreq>
