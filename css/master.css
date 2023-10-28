@@ -2529,15 +2529,15 @@ span.category-jump a {
 
 .score-number {
 	
-	background: #d6eaf5;
-	color: #1377af;
+	background: #e5eafd;
+	color: #475997;
 	font-weight: bold;
 	border-radius: 50%;
 	display: inline-block;
 	font-size: 18px;
-	border: 3px solid #1377af;
+	border: 3px solid #5c6eab;
 	padding: 0 8px;
-	width: 50px;
+	min-width: 50px;
 	height: 50px;
 	text-align: center;
 	line-height: 44px;
@@ -2621,5 +2621,95 @@ a.insta-button:hover {
 .insta-h3 {
 	font-size: 2rem;
 	margin-bottom: 2rem;
+}
+
+
+
+
+
+.archive-wrapper {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	margin-top: 4rem;
+}
+
+.archive-wrapper:first-child {
+	margin-top: 4rem;
+}
+
+.archive-image {
+	width: 40%;
+	padding-right: 20px;
+}
+
+
+.archive-image .score-number {
+	position: relative;
+	bottom: 70%;
+    left: 5%;
+}
+
+.archive-image img {
+	width: 100%;
+}
+
+
+.archive-text {
+	width: 60%;
+	
+}
+
+
+.archive-text h3 {
+	line-height: 1.2;
+	margin-bottom: 1rem;
+	font-size: 20px;
+	font-weight: 600;
+	text-transform: capitalize;
+}
+
+.archive-text a {
+	color: #1d2d35;
+	text-decoration: none;
+}
+
+.archive-wrapper a:hover {
+	opacity:0.8;
+}
+
+.archive-text p {
+	font-size: 15px;
+}
+
+
+@media (max-width: 550px) {
+
+.archive-text h3 {
+	font-size: 17px;
+}
+
+.archive-wrapper {
+	margin-top: 2rem;
+}
+
+}
+
+
+.score-archive-wrapper {
+	display: flex;
+
+	align-content: center;
+	
+}
+
+
+.score-archive-wrapper p.f14 {
+	line-height: 50px;
+}
+
+
+.grey-border {
+	border: 1px solid #f2f2f2;
 }
 
