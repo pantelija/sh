@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.straphunter.com/</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
@@ -13,53 +13,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/privacy</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/pueblo</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/pueblo.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/perlon</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -109,8 +64,17 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/privacy</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/metal</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -184,8 +148,44 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/pueblo</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/pueblo.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/ostrich</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -259,146 +259,41 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/deals</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/pigskin</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/abpconcept.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/pigskin.jpg</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/accurate-form.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/artisanstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/band-and-bezel.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/clockwork-republic.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/colareb.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crafterblue.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/everest.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
-      </image:image>
-      <image:image>
         <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/horus.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/luff.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/milanostraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/molequin.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/nerobiglia.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/phenomenato.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/ritche.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/rem.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/vanguard.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/watchstrapheaven.png</image:loc>
       </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
-      </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/deployant</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -499,95 +394,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/pigskin</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/pigskin.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/accurate-form.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchstrapheaven.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/mesh</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/z1-mesh.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/abpconcept.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/condor.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/wolbrook.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/handmade</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -733,8 +541,62 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/lizard</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/mesh</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/z1-mesh.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/abpconcept.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/condor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/wolbrook.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/deals</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -744,13 +606,37 @@
         <image:loc>https://www.straphunter.com/images/abpconcept.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/accurate-form.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/artisanstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/band-and-bezel.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/condor.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/clockwork-republic.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/colareb.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crafterblue.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
@@ -759,39 +645,96 @@
         <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/everest.png</image:loc>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/horus.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/luff.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/milanostraps.png</image:loc>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/molequin.png</image:loc>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/nerobiglia.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/phenomenato.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/ritche.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/rem.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/wotancraft.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/vanguard.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/ziczac.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchstrapheaven.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/bund</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -871,8 +814,116 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/canvas-pass-through</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston-canvas-nato-strap-10.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gasgasbones.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/lizard</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/abpconcept.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/condor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/milanostraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/wotancraft.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/ziczac.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/zulu</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -934,59 +985,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/canvas-pass-through</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston-canvas-nato-strap-10.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gasgasbones.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/calfskin</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1222,8 +1222,50 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/21mm</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/handmade-velle-alexander.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/rubber-b-03.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bark-and-jack-03.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/about</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/z-nato.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/contact</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/leather</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1483,101 +1525,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/about</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/z-nato.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/contact</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/21mm</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/handmade-velle-alexander.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/rubber-b-03.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/bark-and-jack-03.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/beads-of-rice</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/wolbrook.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/rubber</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1718,7 +1667,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/alligator</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1804,8 +1753,59 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/beads-of-rice</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/wolbrook.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/suede</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -1930,176 +1930,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/goatskin</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/terms</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/blog</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b017.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b016.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b015.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b013.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b011.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b009.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b008.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b010.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b012.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b014.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b007.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b004.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b003.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b006.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-podcasts.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-b002.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-events.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/crocodile</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/abpconcept.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/condor.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/ziczac.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/all</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -2422,8 +2254,254 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/blog</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b017.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b016.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b015.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b013.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b011.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b009.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b008.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b010.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b012.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b014.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b007.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b004.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b003.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b006.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-podcasts.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-b002.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-events.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/terms</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/crocodile</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/abpconcept.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/condor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/ziczac.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/goatskin</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/for-businesses</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/icons.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/get-listed.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/benefits.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/saffiano</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/glc.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/molequin.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/bronze</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/longines-legend-diver-bronze.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bronze-strap.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/canvas</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -2554,41 +2632,41 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/bronze</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/buttero</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/longines-legend-diver-bronze.jpg</image:loc>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/bronze-strap.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/for-businesses</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/icons.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/get-listed.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/benefits.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/rubber-pass-through</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -2626,137 +2704,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/buttero</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/saffiano</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/glc.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/molequin.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/reviews</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r011.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r014.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r013.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r012.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r010.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r007.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r008.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r009.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r006.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r005.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r004.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r003.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r002.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r001.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/sailcloth</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -2809,161 +2758,182 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/cordura</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/single-pass</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/z1-cordura.jpg</image:loc>
+        <image:loc>https://www.straphunter.com/images/z-nato.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/abpconcept.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/af0210straps.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/condor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/gasgasbones.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/jacobs.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/luff.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/mks.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/milanostraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/ndc-straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/rsm.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/soturi.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/the-house-of-straps.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
       </image:image>
       <image:image>
+        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+      </image:image>
+      <image:image>
         <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/wolbrook.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zulualphastraps.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/ribbed-nylon</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/reviews</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/mustard-yellow-nato-strap-12.jpg</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r011.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/band-and-bezel.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r014.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/barkandjack.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r013.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r012.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r010.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r007.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/hawkrigger.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r008.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r009.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/epsom</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r006.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r005.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r004.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r003.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/keepiece.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r002.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/luff.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/the-house-of-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/th-r001.jpg</image:loc>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/pass-through</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3184,39 +3154,177 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/single-pass</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/cordura</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/z-nato.jpg</image:loc>
+        <image:loc>https://www.straphunter.com/images/z1-cordura.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/af0210straps.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/abpconcept.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/barton.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/clockworks.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jacobs.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/jean-rousseau.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/soturi.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/epsom</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/keepiece.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/lic.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/luff.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/the-house-of-straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/ribbed-nylon</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mustard-yellow-nato-strap-12.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/band-and-bezel.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/barkandjack.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/blushark.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/cns.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/condor.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hawkrigger.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchbandit.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/chromexcel</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/chromexcel-strap.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/accurate-form.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/band-and-bezel.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
@@ -3225,90 +3333,51 @@
         <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/europelli.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/everest.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/gasgasbones.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/luff.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mks.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/milanostraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/ndc-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/north.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/postale.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/rsm.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/singular.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/soturi.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/straphabit.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapsco.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/the-house-of-straps.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/vario.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/windup.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/threaded-leather.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
       </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/wolbrook.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zulualphastraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zuludiver.png</image:loc>
-      </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/elastic</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3364,8 +3433,134 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/disclaimer</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/shell-cordovan</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/accurate-form.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/artisanstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/barkandjack.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/europelli.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/glc.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/molequin.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/the-house-of-straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/threaded-leather.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/toshi.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/watchstrapheaven.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/wotancraft.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/custom</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3499,203 +3694,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/disclaimer</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/shell-cordovan</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/accurate-form.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/artisanstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/atelier-romane.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/barkandjack.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/bulang.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/esprit.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/europelli.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/glc.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hodinkee.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/holbens.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mill-handmade.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/molequin.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/roverhaven.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/smc.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/the-house-of-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/threaded-leather.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/toshi.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/twostitch.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/veblenist.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchobsession.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchstrapheaven.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/wotancraft.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/chromexcel</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/chromexcel-strap.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/accurate-form.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/brbands.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/band-and-bezel.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crownandbuckle.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/daluca.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/delugs.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/europelli.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/everest.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/fin.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/hnb.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/monstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/tcstraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/the-house-of-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/thestraptailor.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/threaded-leather.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/unclestraps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/watchgecko.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/leather-pass-through</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -3817,20 +3817,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/genteel-handmade</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/watch-strap-heaven</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3868,8 +3856,20 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/genteel-handmade</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/genteel.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/blushark-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3881,7 +3881,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/band-and-bezel</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3919,8 +3919,32 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/keepiece</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/keepiece.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/ritche-watch-bands</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/ritche.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/two-stitch-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -3961,32 +3985,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/keepiece</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/keepiece.png</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/ritche-watch-bands</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/ritche.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/veblenist</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4025,7 +4025,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/wolbrook</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4037,7 +4037,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/mushi-watch-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4076,7 +4076,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/zulu-alpha-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4088,7 +4088,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/molequin</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4100,7 +4100,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/fin-watch-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4133,7 +4133,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/vanguard-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4145,7 +4145,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/cns-watch-bands</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4165,20 +4165,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/accurate-form</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/accurate-form-2.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/toshi-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4210,8 +4198,20 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/accurate-form</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/accurate-form-2.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/uncle-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4244,7 +4244,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/the-strap-tailor</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4276,41 +4276,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/gunny-straps-official</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/company-gunny-straps.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny-straps-01.jpeg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny-straps-02.jpeg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny-straps-03.jpeg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny-straps-04.jpeg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny-straps-05.jpeg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/gunny-straps-06.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/events</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4363,20 +4330,41 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/forstner-bands</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/gunny-straps-official</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/gunny.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/company-gunny-straps.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny-straps-01.jpeg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny-straps-02.jpeg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny-straps-03.jpeg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny-straps-04.jpeg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny-straps-05.jpeg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/gunny-straps-06.jpg</image:loc>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/1787-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4387,8 +4375,20 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/forstner-bands</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/forstner.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/ndc-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4421,7 +4421,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/north-street-watch-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4432,20 +4432,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/nick-mankey-designs</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/nick-mankey.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/vecchio-times</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4456,8 +4444,20 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/nick-mankey-designs</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/nick-mankey.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/watch-obsession</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4472,7 +4472,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/watchbandit</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4508,7 +4508,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/atelier-romane</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4520,7 +4520,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/hodinkee-shop</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4532,7 +4532,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/nero-biglia</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4565,7 +4565,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/abp-concept</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4577,7 +4577,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/r002</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4624,8 +4624,50 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/r003</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-hero.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-02.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-04.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-03.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-05.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-07.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-06.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-08.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-09.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-10.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/r001</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4676,7 +4718,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/r006</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4726,50 +4768,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/r003</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-hero.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-02.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-04.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-03.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-05.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-07.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-06.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-08.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-09.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/crown-buckle-nato-10.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/r007</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4847,7 +4847,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/r004</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4891,56 +4891,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/r008</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-hero.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-04.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-07.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-05.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-14.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-06.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-11.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-13.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-03.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-09.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-01.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-10.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/r005</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -4987,20 +4939,56 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/crafter-blue</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/r008</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/crafterblue.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-hero.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-04.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-07.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-05.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-14.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-06.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-11.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-13.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-03.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-09.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-01.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/cns-perlon-adjustable-10.jpg</image:loc>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/r009</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5035,8 +5023,20 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/crafter-blue</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/crafterblue.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/af0210-strap</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5048,7 +5048,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/mill-handmade</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5081,7 +5081,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/r010</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5120,7 +5120,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/r013</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5167,8 +5167,95 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/torre-straps</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/company-torre.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-04.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-01.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-07.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-03.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-06.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-02.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-08.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-05.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/r014</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-12.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-02.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-03.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-07.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-01.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-08.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-04.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-11.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-10.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-09.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-06.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-05.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/r011</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5215,47 +5302,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/torre-straps</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/company-torre.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps-04.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps-01.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps-07.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps-03.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps-06.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps-02.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps-08.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps-05.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/r012</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5305,56 +5353,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/r014</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-12.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-02.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-03.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-07.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-01.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-08.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-04.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-11.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-10.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-09.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-06.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/yellow-dog-rubber-nato-05.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/bulang-and-sons</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5366,7 +5366,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/glc-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5378,7 +5378,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/threaded-leather</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5390,7 +5390,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/timefactors</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5423,7 +5423,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/rem-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5434,20 +5434,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/es-handcrafted</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/daluca-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5479,8 +5467,20 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/es-handcrafted</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/eshandcrafted.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/colareb</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5513,7 +5513,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/zuludiver</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5543,7 +5543,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/has-no-bounds</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5555,7 +5555,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/clockwork-synergy</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5567,7 +5567,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/rubber-b</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5606,7 +5606,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/frogsquad-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5615,10 +5615,31 @@
       <image:image>
         <image:loc>https://www.straphunter.com/images/frogsquad.png</image:loc>
       </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/frogsquadstraps-09.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/frogsquadstraps-11.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/frogsquadstraps-05.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/frogsquadstraps-12.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/frogsquadstraps-04.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/frogsquadstraps-03.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/frogsquadstraps-08.jpg</image:loc>
+      </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/gasgasbones</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5633,7 +5654,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/gxfusion</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5645,7 +5666,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/condor-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5657,7 +5678,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/postale</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5690,7 +5711,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/milano-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5702,7 +5723,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/hawkrigger</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5729,7 +5750,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/dstrap</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5741,7 +5762,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/cincy-strap-company</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5753,7 +5774,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/tc-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5764,8 +5785,32 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/b014</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/smc-saffiano.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-saffiano.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/veblenist-saffiano.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/massena-blue-saffiano.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/b013</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5789,7 +5834,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/b012</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5803,8 +5848,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b014</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/b016</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5814,21 +5859,12 @@
         <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/smc-saffiano.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-saffiano.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/veblenist-saffiano.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/massena-blue-saffiano.jpg</image:loc>
+        <image:loc>https://www.straphunter.com/images/straphabit-pink-strap.jpg</image:loc>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/b011</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5842,8 +5878,23 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/b017</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-wrist-shot.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/the-watch-steward</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5855,7 +5906,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/b015</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5878,8 +5929,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b017</loc>
-    <lastmod>2024-01-03</lastmod>
+    <loc>https://www.straphunter.com/b010</loc>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5889,27 +5940,27 @@
         <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/unimatic-wrist-shot.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/b016</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+        <image:loc>https://www.straphunter.com/images/bund-strap-hero.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+        <image:loc>https://www.straphunter.com/images/jason-heaton-bund-01.jpg</image:loc>
       </image:image>
       <image:image>
-        <image:loc>https://www.straphunter.com/images/straphabit-pink-strap.jpg</image:loc>
+        <image:loc>https://www.straphunter.com/images/jason-heaton-bund-02.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/torre-straps-05.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/velle-alexander-bund.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/pnd.jpg</image:loc>
       </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/velle-alexander</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5942,7 +5993,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/windup-watch-shop</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5953,38 +6004,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b010</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/bund-strap-hero.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/jason-heaton-bund-01.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/jason-heaton-bund-02.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/torre-straps-05.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/velle-alexander-bund.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/pnd.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/barton-watch-bands</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -5999,7 +6020,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/b009</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6020,7 +6041,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/b008</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6035,7 +6056,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/aaron-bespoke</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6046,8 +6067,29 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/b002</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zenith-diagram.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zenith-pilot-flyback-steel.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/zenith-pilot-ceramic.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/b003</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6070,29 +6112,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b002</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zenith-diagram.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zenith-pilot-flyback-steel.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/zenith-pilot-ceramic.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/b007</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6107,7 +6128,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/b006</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6122,7 +6143,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/b004</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6173,7 +6194,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/singular-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6217,23 +6238,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/strapcode</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r006.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/holbens</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6265,8 +6271,23 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/strapcode</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapcode.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-r006.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/rsm-watch-strap</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6277,20 +6298,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/dangerous9straps</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/europelli</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6301,8 +6310,20 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/dangerous9straps</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/dangerous9straps.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/jean-rousseau</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6314,7 +6335,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/br-bands</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6329,7 +6350,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/soturi-design</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6361,38 +6382,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/haveston</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/company-haveston.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/th-r001.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston-01.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston-03.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston-04.jpg</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/haveston-02.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/lic-leather</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6404,7 +6395,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/crown-and-buckle</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6436,8 +6427,38 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/haveston</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/company-haveston.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/th-r001.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston-01.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston-03.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston-04.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/haveston-02.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/watchgecko</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6467,7 +6488,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/wotancraft</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6500,7 +6521,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/archer-watch-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6512,7 +6533,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/rover-haven-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6545,7 +6566,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/horus-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6557,7 +6578,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/luff-watch-strap</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6569,7 +6590,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/atelier-del-sur</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6581,7 +6602,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/esprit-nato</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6623,7 +6644,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/everest-bands</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6635,7 +6656,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/artem-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6647,7 +6668,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/smc-strap-mill-canada</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6682,8 +6703,20 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/man-cave-leather</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/mancaveleather.jpg</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/zic-zac-leather</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6715,20 +6748,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/man-cave-leather</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/mancaveleather.jpg</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/monstraps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6740,7 +6761,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/podcasts</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6800,7 +6821,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/strapsco</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6815,7 +6836,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/erikas-originals</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6827,7 +6848,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/jacob-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6839,7 +6860,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/lugs-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6851,7 +6872,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/yellow-dog-watch-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6865,20 +6886,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://www.straphunter.com/strapatelier</loc>
-    <lastmod>2024-01-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
-      </image:image>
-      <image:image>
-        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
-      </image:image>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/mks-nato-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6889,8 +6898,20 @@
       </image:image>
   </url>
   <url>
+    <loc>https://www.straphunter.com/strapatelier</loc>
+    <lastmod>2024-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/strapatelier.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/straposphere</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6902,7 +6923,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/phenomenato-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6929,7 +6950,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/vario-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6941,7 +6962,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/delugs</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6953,7 +6974,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/clockwork-republic</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6965,7 +6986,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/straphabit</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6980,7 +7001,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/the-house-of-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -6989,7 +7010,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/bark-and-jack</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -7022,7 +7043,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/artisan-straps</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -7055,7 +7076,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/nenad</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -7067,7 +7088,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/uk</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -7127,7 +7148,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/us</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -7226,7 +7247,7 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/australia</loc>
-    <lastmod>2024-01-03</lastmod>
+    <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
