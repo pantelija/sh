@@ -2825,6 +2825,9 @@
       <image:image>
         <image:loc>https://www.straphunter.com/images/th-r001.jpg</image:loc>
       </image:image>
+	  <image:image>
+        <image:loc>https://www.straphunter.com/images/th-r015.jpg</image:loc>
+      </image:image>
   </url>
   <url>
     <loc>https://www.straphunter.com/ribbed-nylon</loc>
@@ -7618,6 +7621,57 @@
       </image:image>
       <image:image>
         <image:loc>https://www.straphunter.com/images/vecchio.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/r015</loc>
+    <lastmod>2024-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/logo.png</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/avatar.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-hero.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-01.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-02.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-04.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-05.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-06.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-07.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-08.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-09.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-10.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-11.jpg</image:loc>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-15.jpg</image:loc>
+      </image:image>
+	  <image:image>
+        <image:loc>https://www.straphunter.com/images/unimatic-cordura-strap-16.jpg</image:loc>
       </image:image>
   </url>
 </urlset>
