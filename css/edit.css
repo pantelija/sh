@@ -1603,3 +1603,18 @@ background: #F5F7FA;
 	}
 
 }
+
+.mini-snippet {
+	color: #444;
+	font-size: 15px;
+	font-style: italic;
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+p.mini-snippet {
+	margin-bottom: 0;
+}
+
