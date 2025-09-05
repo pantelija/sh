@@ -1619,3 +1619,17 @@ p.mini-snippet {
 	margin-bottom: 0;
 }
 
+
+span.highlight {
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #72531E;
+    padding: 2px 12px 2px;
+    background: #FFC767;
+    border-radius: 10px;
+    margin-left: 3px;
+  position: relative;
+  top: -3px;
+}
+
