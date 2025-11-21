@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Days since the last Talking Watches Episode</title>
+
+    <meta property="og:title" content="Days since the last Talking Watches Episode" />
+    <meta property="og:url" content="https://www.straphunter.com/tw" />
+   
+    <meta property="og:type" content="website" />
+    
+    <link rel="canonical" href="https://www.straphunter.com/tw" />
+
+    <meta property="og:image" content="https://www.straphunter.com/images/tw.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://www.straphunter.com/images/tw.png" />
+
+
+
+
+    <style>
+        /* RESET & BASICS */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: #fdfbf7; /* A warm, paper-like off-white */
+            color: #1a1a1a;
+            font-family: "Georgia", "Times New Roman", serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* MAIN CONTAINER */
+        .container {
+            max-width: 600px;
+            width: 100%;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        /* HEADLINES */
+        h1 {
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #666;
+            margin-bottom: 40px;
+            font-weight: normal;
+        }
+
+        a {
+            color:#666;
+            font-weight: bold;
+        }
+
+        /* THE COUNTER */
+        .counter-wrapper {
+            margin: 40px 0;
+        }
+
+        #days-count {
+            font-size: 8rem;
+            font-weight: 700;
+            line-height: 1;
+            color: #000;
+        }
+
+        .label {
+            font-size: 1.5rem;
+            font-style: italic;
+            color: #555;
+            margin-top: 10px;
+        }
+
+        /* THE EXPLAINER PARAGRAPH */
+        .explainer {
+            margin-top: 60px;
+            line-height: 1.6;
+            font-size: 1.1rem;
+            color: #333;
+            border-top: 1px solid #ddd;
+            padding-top: 30px;
+        }
+
+        /* FOOTER */
+        footer {
+            margin-top: 80px;
+            font-size: 0.75rem;
+            color: #999;
+            font-family: sans-serif;
+        }
+
+        /* ANIMATION */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* RESPONSIVE TWEAKS */
+        @media (max-width: 600px) {
+            #days-count { font-size: 5rem; }
+            h1 { font-size: 1rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Days since the last<br>Talking Watches Episode</h1>
+
+        <div class="counter-wrapper">
+            <div id="days-count">0</div>
+            <div class="label">Days</div>
+        </div>
+
+        <div class="explainer">
+            <p>
+                <strong>Why we miss it:</strong> <em>Talking Watches<em> is more than just a show about watches. It is a series that somehow manages to capture the soul of the hobby. It offers an intimate, unscripted look at why these mechanical objects matter, the memories they hold, and the shared passion that turned a nerdy hobby into a global community. I really hope the Hodinkee team considers reviving it soon. Nothing else quite hits the same spot. </p>
+           
+        </div>
+    </div>
+
+    <footer>
+        Data based on the Adam Victor episode (Nov 18, 2024).<br>
+        Not affiliated with Hodinkee. Made by <a href="https://www.straphunter.com">StrapHunter</a>
+    </footer>
+
+    <script>
+        // CONFIGURATION: Set the date of the last episode here (YYYY-MM-DD)
+        // Currently set to the 'Adam Victor' episode.
+        const lastEpisodeDate = new Date('2024-11-18T09:00:00');
+
+        function updateCounter() {
+            const now = new Date();
+            
+            // Calculate the difference in time
+            const timeDifference = now - lastEpisodeDate;
+            
+            // Calculate days (1000ms * 60s * 60m * 24h)
+            const daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+
+            // Update the DOM
+            document.getElementById('days-count').textContent = daysDifference;
+        }
+
+        // Run immediately
+        updateCounter();
+    </script>
+
+</body>
+</html>
