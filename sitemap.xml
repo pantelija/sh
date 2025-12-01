@@ -139,13 +139,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/suede</loc>
+    <loc>https://www.straphunter.com/beads-of-rice</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/beads-of-rice</loc>
+    <loc>https://www.straphunter.com/suede</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -157,19 +157,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/goatskin</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/terms</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/crocodile</loc>
+    <loc>https://www.straphunter.com/goatskin</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -181,19 +175,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.straphunter.com/crocodile</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/canvas</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/bronze</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/saffiano</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -205,7 +193,19 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.straphunter.com/bronze</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/for-businesses</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/saffiano</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -241,13 +241,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/ribbed-nylon</loc>
+    <loc>https://www.straphunter.com/cordura</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/cordura</loc>
+    <loc>https://www.straphunter.com/ribbed-nylon</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -265,13 +265,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/shell-cordovan</loc>
+    <loc>https://www.straphunter.com/custom</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/custom</loc>
+    <loc>https://www.straphunter.com/shell-cordovan</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -283,22 +283,16 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/disclaimer</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/elastic</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/band-and-bezel</loc>
+    <loc>https://www.straphunter.com/disclaimer</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.straphunter.com/genteel-handmade</loc>
@@ -307,13 +301,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/ritche-watch-bands</loc>
+    <loc>https://www.straphunter.com/blushark-straps</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/blushark-straps</loc>
+    <loc>https://www.straphunter.com/band-and-bezel</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/ritche-watch-bands</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -409,13 +409,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/r002</loc>
+    <loc>https://www.straphunter.com/r003</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/r003</loc>
+    <loc>https://www.straphunter.com/r002</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -446,6 +446,12 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/r005</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/b058</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -505,19 +511,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b052</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/b053</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b051</loc>
+    <loc>https://www.straphunter.com/b052</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -529,13 +529,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/r010</loc>
+    <loc>https://www.straphunter.com/b051</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/torre-straps</loc>
+    <loc>https://www.straphunter.com/r010</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -553,7 +553,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/r012</loc>
+    <loc>https://www.straphunter.com/torre-straps</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/r011</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -565,7 +571,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/r011</loc>
+    <loc>https://www.straphunter.com/r012</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -595,13 +601,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b046</loc>
+    <loc>https://www.straphunter.com/b045</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b045</loc>
+    <loc>https://www.straphunter.com/b046</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -613,19 +619,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b044</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/glc-straps</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/b049</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/b044</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,7 +637,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b043</loc>
+    <loc>https://www.straphunter.com/glc-straps</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -649,19 +649,25 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.straphunter.com/b043</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/b042</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/rem-straps</loc>
+    <loc>https://www.straphunter.com/b041</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b041</loc>
+    <loc>https://www.straphunter.com/rem-straps</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -739,13 +745,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b037</loc>
+    <loc>https://www.straphunter.com/b038</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b038</loc>
+    <loc>https://www.straphunter.com/b037</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -757,13 +763,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b030</loc>
+    <loc>https://www.straphunter.com/b031</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b031</loc>
+    <loc>https://www.straphunter.com/b030</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -775,13 +781,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b025</loc>
+    <loc>https://www.straphunter.com/b024</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b024</loc>
+    <loc>https://www.straphunter.com/b025</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -811,6 +817,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.straphunter.com/b026</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/b027</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
@@ -818,12 +830,6 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/gasgasbones</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/b026</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,13 +853,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/dstrap</loc>
+    <loc>https://www.straphunter.com/north-straps</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/north-straps</loc>
+    <loc>https://www.straphunter.com/dstrap</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -877,19 +883,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b012</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/b011</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b018</loc>
+    <loc>https://www.straphunter.com/b012</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -901,7 +901,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b016</loc>
+    <loc>https://www.straphunter.com/b018</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -913,13 +913,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b015</loc>
+    <loc>https://www.straphunter.com/b016</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b010</loc>
+    <loc>https://www.straphunter.com/b015</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -931,13 +931,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b009</loc>
+    <loc>https://www.straphunter.com/b010</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.straphunter.com/barton-watch-bands</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/b009</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,13 +973,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b007</loc>
+    <loc>https://www.straphunter.com/b006</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/b006</loc>
+    <loc>https://www.straphunter.com/b007</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -991,13 +997,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/strapcode</loc>
+    <loc>https://www.straphunter.com/singular-straps</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/singular-straps</loc>
+    <loc>https://www.straphunter.com/strapcode</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -1105,12 +1111,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/the-house-of-straps</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.straphunter.com/zealande</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
@@ -1118,6 +1118,12 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/bark-and-jack</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.straphunter.com/the-house-of-straps</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -1183,13 +1189,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/toshi-straps</loc>
+    <loc>https://www.straphunter.com/cns-watch-bands</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/cns-watch-bands</loc>
+    <loc>https://www.straphunter.com/toshi-straps</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -1327,6 +1333,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.straphunter.com/dangerous9straps</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.straphunter.com/jean-rousseau</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
@@ -1387,13 +1399,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/strapsco</loc>
+    <loc>https://www.straphunter.com/podcasts</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.straphunter.com/podcasts</loc>
+    <loc>https://www.straphunter.com/strapsco</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -1466,12 +1478,6 @@
   </url>
   <url>
     <loc>https://www.straphunter.com/watches-of-espionage</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.straphunter.com/dangerous9straps</loc>
     <lastmod>2025-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
