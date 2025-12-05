@@ -288,6 +288,11 @@ a.country-link {
 	text-decoration: none;
 }
 
+a.country-nof-link {
+  color: #333;
+  text-decoration: none;
+}
+
 
 a.showcase-link {
 	text-decoration: underline;
