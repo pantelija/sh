@@ -288,11 +288,6 @@ a.country-link {
 	text-decoration: none;
 }
 
-a.country-nof-link {
-  color: #333;
-  text-decoration: none;
-}
-
 
 a.showcase-link {
 	text-decoration: underline;
@@ -1201,7 +1196,7 @@ ul.nav-sub-ul {
 
 .full-bleed {
 	margin-left: -60%;
-	margin-right: -60;
+	margin-right: -60%;
 	width: calc(100% + 120%);
 }
 
@@ -1638,3 +1633,25 @@ span.highlight {
   top: -3px;
 }
 
+
+.full-bleed2 {
+  margin-left: -40%;
+  margin-right: -40%;
+  width: calc(100% + 80%);
+}
+
+@media only screen and (max-width: 1280px) {
+  .full-bleed2 {
+    margin-left: clamp(-20%, calc((100vw - 680px) / 600px * -20%), 0%);
+    margin-right: clamp(-20%, calc((100vw - 680px) / 600px * -20%), 0%);
+    width: clamp(100%, calc(100% + (100vw - 680px) / 600px * 40%), 140%);
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .full-bleed2 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+  }
+}
